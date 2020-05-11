@@ -4,14 +4,18 @@ A collective of gardeners tending their digital notes on the interwebs
 
 ## Tools and Resources
 
-- https://tiddlywiki.com/
+- [TiddlyWiki](https://tiddlywiki.com/)
 - https://github.com/aengusmcmillin/gatsby-theme-brain
 - https://web.hypothes.is/
 
-## Articles
+## Theory, Philosophy, and Navel-Gazing
 
 - https://joelhooks.com/digital-garden
 - https://nesslabs.com/mind-garden
+
+## How-To's and Tutorials
+
+- [How to build a digital garden with TiddlyWiki](https://nesslabs.com/digital-garden-tiddlywiki) by Ness Labs
 
 ## Digital Garden Examples
 
