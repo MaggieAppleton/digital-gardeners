@@ -2,7 +2,7 @@
 
 A collective of gardeners tending their digital notes on the interwebs
 
-## Tools
+## Tools and Resources
 
 - https://tiddlywiki.com/
 - https://github.com/aengusmcmillin/gatsby-theme-brain
@@ -11,8 +11,6 @@ A collective of gardeners tending their digital notes on the interwebs
 
 - https://joelhooks.com/digital-garden
 - https://nesslabs.com/mind-garden
-
-## WIP Projects
 
 ## Digital Garden Examples
 
