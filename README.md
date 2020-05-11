@@ -6,6 +6,7 @@ A collective of gardeners tending their digital notes on the interwebs
 
 - https://tiddlywiki.com/
 - https://github.com/aengusmcmillin/gatsby-theme-brain
+- https://web.hypothes.is/
 
 ## Articles
 
