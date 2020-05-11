@@ -4,6 +4,9 @@ A collective of gardeners tending their digital notes on the interwebs
 
 ## Tools
 
+- https://tiddlywiki.com/
+- https://github.com/aengusmcmillin/gatsby-theme-brain
+
 ## Articles
 
 - https://joelhooks.com/digital-garden
