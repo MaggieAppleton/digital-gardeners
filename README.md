@@ -23,3 +23,6 @@ A collective of gardeners tending their digital notes on the interwebs
 - https://nurselog.online
 - https://notebook.wayanjimmy.xyz
 - https://notes.salman.io
+- https://ianjones.us/notes
+- https://www.contextualise.dev/
+- https://www.christopherbiscardi.com/garden
