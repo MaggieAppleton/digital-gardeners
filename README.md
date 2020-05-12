@@ -16,6 +16,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hooks
 - [You and your mind garden](https://nesslabs.com/mind-garden) by Anne-Laure Le Cunff
+- [Digital Garden Terms of Service](https://www.swyx.io/writing/digital-garden-tos/) by Shawn Wang
 
 ## How-To's and Tutorials
 
@@ -37,6 +38,8 @@ Each listed with 🛠 build tools and 🌿 note themes
   
 - [Tom Critchlow](https://tomcritchlow.com/)
   - 🛠 Jekyll
+  
+- [Shawn Wang](https://www.swyx.io/writing)
 
 - [Kevin Cummingham](https://kevincunningham.co.uk)
   - 🛠 Gatsby
