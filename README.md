@@ -12,7 +12,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 ## Theory, Philosophy, and Navel-Gazing
 
-- [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
+- [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) by Tom Critchlow
 - [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hooks
 - [You and your mind garden](https://nesslabs.com/mind-garden) by Anne-Laure Le Cunff
@@ -21,6 +21,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 - [How to build a digital garden with TiddlyWiki](https://nesslabs.com/digital-garden-tiddlywiki) by Ness Labs
 - [Install org-roam: an introductory technical guide with Doom Emacs]( https://www.ianjones.us/blog/2020-05-05-doom-emacs/) by Ian Jones
+- [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
 
 ## Digital Garden Directory
 
