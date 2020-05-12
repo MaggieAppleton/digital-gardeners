@@ -1,6 +1,6 @@
 # Digital Gardening
 
-A collective of gardeners tending their digital notes on the interwebs
+A collective of gardeners publicly tending their digital notes on the interwebs
 
 ## Tools and Resources
 
