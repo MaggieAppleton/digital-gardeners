@@ -5,14 +5,17 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 ## Tools and Resources
 
 - [TiddlyWiki](https://tiddlywiki.com/)
-- https://github.com/aengusmcmillin/gatsby-theme-brain
-- https://web.hypothes.is/
+- [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Roam-like bidirectional links in Gatsby.js
+- [Hypothesis](https://web.hypothes.is/) - social meta commentary
 - [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
+- [WebMentions](https://webmention.io/)
 
 ## Theory, Philosophy, and Navel-Gazing
 
-- https://joelhooks.com/digital-garden
-- https://nesslabs.com/mind-garden
+- [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
+- [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy
+- [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hooks
+- [You and your mind garden](https://nesslabs.com/mind-garden) by Anne-Laure Le Cunff
 
 ## How-To's and Tutorials
 
@@ -30,16 +33,28 @@ Each listed with 🛠 build tools and 🌿 note themes
 - [Anne-Laure Le Cunff](https://www.mentalnodes.com/)
   - 🛠 TiddlyWiki
   - 🌿 Networked thinking, metacognition, evidence-based learning and self-education
+  
+- [Tom Crtichlow]
 
 - [Kevin Cummingham](https://kevincunningham.co.uk)
   - 🛠 Gatsby
   - 🌿 Web development, React, AWS, GraphQL
   
-- https://aengusmcmillin.com/brain
+- [Aengus McMillin](https://aengusmcmillin.com/brain)
+  - 🛠 Gatsby
+  
+- [Joel Hooks](https://joelhooks.com/)
+  
+- [Ian Jones](https://ianjones.us/notes)
+  - 🛠 Gatsby
+
+- [Chris Biscardi](https://www.christopherbiscardi.com/garden)
+
+- [Maggie Appleton](http://maggieappleton.com/)
+  - 🛠 Gatsby
+  
 - https://nurselog.online
 - https://notebook.wayanjimmy.xyz
 - https://notes.salman.io
-- https://ianjones.us/notes
 - https://www.contextualise.dev/
-- https://www.christopherbiscardi.com/garden
 - https://notes.azlen.me
