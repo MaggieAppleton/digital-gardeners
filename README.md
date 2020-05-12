@@ -34,7 +34,8 @@ Each listed with 🛠 build tools and 🌿 note themes
   - 🛠 TiddlyWiki
   - 🌿 Networked thinking, metacognition, evidence-based learning and self-education
   
-- [Tom Crtichlow]
+- [Tom Critchlow](https://tomcritchlow.com/)
+  - 🛠 Jekyll
 
 - [Kevin Cummingham](https://kevincunningham.co.uk)
   - 🛠 Gatsby
