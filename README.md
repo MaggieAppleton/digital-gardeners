@@ -29,3 +29,4 @@ A collective of gardeners tending their digital notes on the interwebs
 - https://ianjones.us/notes
 - https://www.contextualise.dev/
 - https://www.christopherbiscardi.com/garden
+- https://notes.azlen.me
