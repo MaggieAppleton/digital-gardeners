@@ -9,6 +9,8 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Hypothesis](https://web.hypothes.is/) - social meta commentary
 - [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
 - [WebMentions](https://webmention.io/)
+- [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
+- [Gitbook](https://www.gitbook.com/)
 
 ## Theory, Philosophy, and Navel-Gazing
 
