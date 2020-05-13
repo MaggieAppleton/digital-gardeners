@@ -53,12 +53,14 @@ Each listed with 🛠 build tools and 🌿 note themes
   
 - [Ian Jones](https://ianjones.us/notes)
   - 🛠 Gatsby
-
-- [Chris Biscardi](https://www.christopherbiscardi.com/garden)
+  - 🌿 Web development, Gatsby, Emacs
 
 - [Maggie Appleton](http://maggieappleton.com/)
   - 🛠 Gatsby
+  - 🌿 Anthropology, metaphors, visual explanations, and web development
   
+- [Chris Biscardi](https://www.christopherbiscardi.com/garden)
+
 - https://nurselog.online
 - https://notebook.wayanjimmy.xyz
 - https://notes.salman.io
