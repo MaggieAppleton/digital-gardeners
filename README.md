@@ -65,6 +65,9 @@ Each listed with 🛠 build tools and 🌿 note themes
 
 - https://nurselog.online
 - https://notebook.wayanjimmy.xyz
+  - 🛠 Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter))
+  - 🌿 Coding, Learning notes
+  
 - https://notes.salman.io
 - https://www.contextualise.dev/
 - https://notes.azlen.me
