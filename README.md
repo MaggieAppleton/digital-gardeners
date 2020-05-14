@@ -44,6 +44,8 @@ Each listed with 🛠 build tools and 🌿 note themes
   - 🛠 Jekyll
   
 - [Shawn Wang](https://www.swyx.io/writing)
+  - 🛠 Gatsby 
+  - 🌿 Web development, writing, speaking
 
 - [Kevin Cummingham](https://kevincunningham.co.uk)
   - 🛠 Gatsby
