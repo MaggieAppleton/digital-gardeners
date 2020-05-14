@@ -19,6 +19,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hooks
 - [You and your mind garden](https://nesslabs.com/mind-garden) by Anne-Laure Le Cunff
 - [Digital Garden Terms of Service](https://www.swyx.io/writing/digital-garden-tos/) by Shawn Wang
+- [What is a digital garden?](https://www.christopherbiscardi.com/garden) by Chris Biscardi
 
 ## How-To's and Tutorials
 
@@ -52,22 +53,26 @@ Each listed with 🛠 build tools and 🌿 note themes
   - 🛠 Gatsby
   
 - [Joel Hooks](https://joelhooks.com/)
+  - 🛠 Next.js
+  - 🌿 Bootstrapping / indie-hacking, community building, web development, 
   
 - [Ian Jones](https://ianjones.us/notes)
   - 🛠 Gatsby
   - 🌿 Web development, Gatsby, Emacs
 
 - [Maggie Appleton](http://maggieappleton.com/)
-  - 🛠 Gatsby
+  - 🛠 Gatsby + MDX
   - 🌿 Anthropology, metaphors, visual explanations, and web development
   
 - [Chris Biscardi](https://www.christopherbiscardi.com/garden)
+  - 🛠 Sector / Toast?
+  - 🌿 Web development, MDX, GraphQL, Gatsby
 
-- [Wess Daniels(]https://nurselog.online)
+- [Wess Daniels](https://nurselog.online)
   - 🛠 Tiddlywiki (Pre-Release 5.1.23)
-  - 🌿 culture and systems change, liberation theology, tech and pedagogy 
+  - 🌿 Culture and systems change, liberation theology, tech and pedagogy 
   
-- https://notebook.wayanjimmy.xyz
+- [Wayan Jimmy](https://notebook.wayanjimmy.xyz)
   - 🛠 Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter))
   - 🌿 Coding, Learning notes
   
