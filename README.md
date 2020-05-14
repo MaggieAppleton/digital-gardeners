@@ -63,7 +63,10 @@ Each listed with 🛠 build tools and 🌿 note themes
   
 - [Chris Biscardi](https://www.christopherbiscardi.com/garden)
 
-- https://nurselog.online
+- [Wess Daniels(]https://nurselog.online)
+  - 🛠 Tiddlywiki (Pre-Release 5.1.23)
+  - 🌿 culture and systems change, liberation theology, tech and pedagogy 
+  
 - https://notebook.wayanjimmy.xyz
 - https://notes.salman.io
 - https://www.contextualise.dev/
