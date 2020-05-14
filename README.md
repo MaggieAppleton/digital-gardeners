@@ -23,7 +23,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 ## How-To's and Tutorials
 
-- [How to build a digital garden with TiddlyWiki](https://nesslabs.com/digital-garden-tiddlywiki) by Ness Labs
+- [How to build a digital garden with TiddlyWiki](https://nesslabs.com/digital-garden-tiddlywiki) by Anne-Laure Le Cunff
 - [Install org-roam: an introductory technical guide with Doom Emacs]( https://www.ianjones.us/blog/2020-05-05-doom-emacs/) by Ian Jones
 - [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
 - [Webmentions - Joining the IndieWeb with Svelte](https://www.swyx.io/writing/clientside-webmentions) by Shawn Wang
