@@ -5,6 +5,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 ## Tools and Resources
 
 - [TiddlyWiki](https://tiddlywiki.com/)
+- [Stroll](https://giffmex.org/stroll/stroll.html)
 - [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Roam-like bidirectional links in Gatsby.js
 - [Hypothesis](https://web.hypothes.is/) - social meta commentary
 - [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
