@@ -11,6 +11,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [WebMentions](https://webmention.io/)
 - [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
 - [Gitbook](https://www.gitbook.com/)
+- [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
 
 ## Theory, Philosophy, and Navel-Gazing
 
@@ -78,6 +79,3 @@ Each listed with 🛠 build tools and 🌿 note themes
   - 🛠 Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter))
   - 🌿 Coding, Learning notes
   
-- https://notes.salman.io
-- https://www.contextualise.dev/
-- https://notes.azlen.me
