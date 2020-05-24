@@ -1,6 +1,10 @@
+
 # Digital Gardening
 
 A collective of gardeners publicly tending their digital notes on the interwebs
+
+![An illustration of a plant with an pencil edit icon](https://res.cloudinary.com/dg3gyk0gu/image/upload/c_scale,q_100,w_400/v1590361285/maggieappleton.com/digital-gardening-theory/garden-sm-2.png)
+
 
 ## Tools and Resources
 
