@@ -17,6 +17,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
 - [Gitbook](https://www.gitbook.com/)
 - [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
+- [Obsidian](https://obsidian.md/) -  is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
 
 ## Theory, Philosophy, and Navel-Gazing
 
