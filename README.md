@@ -17,6 +17,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
 - [Gitbook](https://www.gitbook.com/)
 - [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
+- [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
 
 ## Theory, Philosophy, and Navel-Gazing
 
