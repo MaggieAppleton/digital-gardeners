@@ -8,16 +8,22 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 ## Tools and Resources
 
-- [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
-- [Stroll](https://giffmex.org/stroll/stroll.html) - A Roam-like tool built on TiddlyWiki
-- [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Roam-like bidirectional links in Gatsby.js
-- [Hypothesis](https://web.hypothes.is/) - social meta commentary
-- [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
-- [WebMentions](https://webmention.io/)
-- [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
-- [Gitbook](https://www.gitbook.com/)
-- [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
-- [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
+  - [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
+  - [WebMentions](https://webmention.io/)
+  - [Hypothesis](https://web.hypothes.is/) - social meta commentary
+
+  ### Private Notes
+  - [Roam](https://roamresearch.com/)
+  - [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
+  - [Obsidian](https://obsidian.md/) -  is a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
+
+  ### Public Notes
+  - [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
+  - [Stroll](https://giffmex.org/stroll/stroll.html) - A Roam-like tool built on TiddlyWiki
+  - [Gitbook](https://www.gitbook.com/)
+  - [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
+  - [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Roam-like bidirectional links in Gatsby.js
+  - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
 
 ## Theory, Philosophy, and Navel-Gazing
 
