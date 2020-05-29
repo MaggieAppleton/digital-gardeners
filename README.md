@@ -5,6 +5,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 ![An illustration of a plant with an pencil edit icon](https://res.cloudinary.com/dg3gyk0gu/image/upload/c_scale,q_100,w_850/v1590401937/maggieappleton.com/digital-gardening-theory/garden-wide.png)
 
+<br />
 
 ## Tools and Resources
 
@@ -12,18 +13,20 @@ A collective of gardeners publicly tending their digital notes on the interwebs
   - [WebMentions](https://webmention.io/)
   - [Hypothesis](https://web.hypothes.is/) - social meta commentary
 
-  ### Private Notes
+ #### Private Notes
   - [Roam](https://roamresearch.com/)
   - [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
-  - [Obsidian](https://obsidian.md/) -  is a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
-
-  ### Public Notes
+  - [Obsidian](https://obsidian.md/) -  a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
+  
+  #### Public Notes
   - [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
   - [Stroll](https://giffmex.org/stroll/stroll.html) - A Roam-like tool built on TiddlyWiki
   - [Gitbook](https://www.gitbook.com/)
   - [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
   - [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Roam-like bidirectional links in Gatsby.js
   - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
+  
+<br />
 
 ## Theory, Philosophy, and Navel-Gazing
 
@@ -34,12 +37,16 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Digital Garden Terms of Service](https://www.swyx.io/writing/digital-garden-tos/) by Shawn Wang
 - [What is a digital garden?](https://www.christopherbiscardi.com/garden) by Chris Biscardi
 
+<br />
+
 ## How-To's and Tutorials
 
 - [How to build a digital garden with TiddlyWiki](https://nesslabs.com/digital-garden-tiddlywiki) by Anne-Laure Le Cunff
 - [Install org-roam: an introductory technical guide with Doom Emacs]( https://www.ianjones.us/blog/2020-05-05-doom-emacs/) by Ian Jones
 - [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
 - [Webmentions - Joining the IndieWeb with Svelte](https://www.swyx.io/writing/clientside-webmentions) by Shawn Wang
+
+<br />
 
 ## Digital Garden Directory
 
