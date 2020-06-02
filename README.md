@@ -86,6 +86,9 @@ Each listed with 🛠 build tools and 🌿 note themes
   
 - [Aengus McMillin](https://aengusmcmillin.com/brain)
   - 🛠 Gatsby
+
+- [Alzen Elza](https://notes.azlen.me/g3tibyfv/)
+  - 🌿 Design, Conversational interfaces, Tools for thought
   
 - [Joel Hooks](https://joelhooks.com/)
   - 🛠 Next.js
@@ -128,7 +131,15 @@ Each listed with 🛠 build tools and 🌿 note themes
 
 - [Neil Mather](https://commonplace.doubleloop.net)
   - 🛠 Org-mode
+  
+- [Gordon Brander](http://gordonbrander.com/pattern/)
+  - 🛠 [Lettersmith](https://github.com/gordonbrander/lettersmith_py)
+  - 🌿 Design patterns, storytelling, systems
 
 - [Bill Seitz](http://webseitz.fluxent.com/wiki/)
   - 🛠 Flask/Python with [WikiFlux](http://webseitz.fluxent.com/wiki/WikiFlux)
   - 🌿 [Wrote an ebook on Private Wikis](http://webseitz.fluxent.com/wiki/HackYourLifeWithAPrivateWikiNotebookGettingThingsDoneAndOtherSystems)
+  
+- [Daniel Chapman](https://www.dschapman.com/notes)
+  - 🛠 Gatsby
+  - 🌿 Books, Writing, Poetry
