@@ -111,13 +111,24 @@ Each listed with 🛠 build tools and 🌿 note themes
   - 🛠 Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter))
   - 🌿 Coding, Learning notes
   
+- [Markus](https://re1.dev/wiki/)
+  - 🛠 Eleventy
+  - 🌿 Design, linux, privacy
+  
+- [Max Stoiber](https://notes.mxstbr.com/About_these_notes)
+  - 🛠 The Mystery Andy System
+  - 🌿 React, web development
+
+- [Gwern](https://www.gwern.net/)
+  - 🌿 Quantified self, spaced repetition, bitcoin
+  
 - [Chris Aldrich](https://tw.boffosocko.com)
   - 🛠 TiddlyWiki + TiddlyBlink + TiddlyMap
   - 🌿 Art of Memory, IndieWeb, humanities, commonplace books, thought spaces
 
 - [Neil Mather](https://commonplace.doubleloop.net)
-  - 🛠 staticly published plain text using org-mode
+  - 🛠 Org-mode
 
 - [Bill Seitz](http://webseitz.fluxent.com/wiki/)
-  - 🛠 built flask/python wiki http://webseitz.fluxent.com/wiki/WikiFlux
-  - wrote ebook on Private Wiki http://webseitz.fluxent.com/wiki/HackYourLifeWithAPrivateWikiNotebookGettingThingsDoneAndOtherSystems
+  - 🛠 Flask/Python with [WikiFlux](http://webseitz.fluxent.com/wiki/WikiFlux)
+  - 🌿 [Wrote an ebook on Private Wikis](http://webseitz.fluxent.com/wiki/HackYourLifeWithAPrivateWikiNotebookGettingThingsDoneAndOtherSystems)
