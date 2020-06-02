@@ -138,7 +138,6 @@ Each listed with 🛠 build tools and 🌿 note themes
 
 - [Bill Seitz](http://webseitz.fluxent.com/wiki/)
   - 🛠 Flask/Python with [WikiFlux](http://webseitz.fluxent.com/wiki/WikiFlux)
-  - 🌿 [Wrote an ebook on Private Wikis](http://webseitz.fluxent.com/wiki/HackYourLifeWithAPrivateWikiNotebookGettingThingsDoneAndOtherSystems)
   
 - [Daniel Chapman](https://www.dschapman.com/notes)
   - 🛠 Gatsby
