@@ -3,7 +3,7 @@
 
 A collective of gardeners publicly tending their digital notes on the interwebs
 
-![An illustration of a plant with an pencil edit icon](https://res.cloudinary.com/dg3gyk0gu/image/upload/c_scale,w_700/v1590401937/maggieappleton.com/notes/garden-history/garden-wide.png)
+![An illustration of a plant with an pencil edit icon](https://res.cloudinary.com/dg3gyk0gu/image/upload/c_scale,w_800/v1590401937/maggieappleton.com/notes/garden-history/garden-wide.png)
 
 <br />
 
