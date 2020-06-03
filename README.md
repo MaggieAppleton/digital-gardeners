@@ -41,13 +41,18 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [You and your mind garden](https://nesslabs.com/mind-garden) by Anne-Laure Le Cunff
 - [Digital Garden Terms of Service](https://www.swyx.io/writing/digital-garden-tos/) by Shawn Wang
 - [What is a digital garden?](https://www.christopherbiscardi.com/garden) by Chris Biscardi
+- [The Garden and the Stream: A Techno pastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) by Mike Caulfield
 - [The Garden and the Stream: An IndieWeb Pop-up Session](https://indieweb.org/2020/Pop-ups/GardenAndStream)
+
+<br />
+
+## Common Groud: Zettlekasten, PKM, Wikis, and Related Concepts
+
 - [Zettlekasten: knowledge and info management](https://zettelkasten.de/)
 - [The Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1) by Abram Demski
 - [A web of wikis](https://doubleloop.net/2020/05/16/a-web-of-wikis/) by Neil Mather 
 - [Bliki tooling](https://doubleloop.net/2020/05/02/bliki-tooling/) by Neil Mather
 - [Hack Your Life With A Private Wiki Notebook, Getting Things Done, And Other Systems](http://webseitz.fluxent.com/wiki/HackYourLifeWithAPrivateWikiNotebookGettingThingsDoneAndOtherSystems) by Bill Seitz
-- [The Garden and the Stream: A Techno pastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) by Mike Caulfield
 - [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by Vannevar Bush (The Atlantic, 1945)
 
 <br />
