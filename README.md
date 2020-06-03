@@ -7,30 +7,37 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 <br />
 
-## Tools and Resources
-
-  - [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
-  - [Webmention](https://indieweb.org/Webmention)
-    - [Webmention.io](https://webmention.io/) - a third party service provider
-  - [Hypothesis](https://web.hypothes.is/) - social meta commentary
-
- #### Private Notes
-  - [Roam](https://roamresearch.com/)
-  - [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
-  - [Obsidian](https://obsidian.md/) -  a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
+## Gardening Tools
   
-  #### Public Notes
+  - [Webmentions](https://indieweb.org/Webmention) - About the Webmentions system
+      - [Webmention.io](https://webmention.io/) - A service to add Webmentions to your Garden
+  - [Hypothesis](https://web.hypothes.is/) - A layer of social meta commentary
+  
+  #### Public Garden Notes
   - [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
     - [Stroll](https://giffmex.org/stroll/stroll.html) a notetaking tool built with the TiddlyWiki platform, with bi-directional links and other Roam-like features
     - [TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html) - TiddlyWiki with bi-directional linking
     - [TiddlyMap](http://tiddlymap.org/) - a mind-map plugin that shows visualizations for TiddlyWiki.
-  - [Stroll](https://giffmex.org/stroll/stroll.html) - A Roam-like tool built on TiddlyWiki
   - [Gitbook](https://www.gitbook.com/)
   - [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
   - [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Roam-like bidirectional links in Gatsby.js
   - [Gatsby Andy Theme](https://github.com/aravindballa/gatsby-theme-andy)
   - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
   
+   #### Private Notes
+  - [Roam](https://roamresearch.com/) - A personal notes system for interconnected thought
+  - [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
+  - [Obsidian](https://obsidian.md/) -  a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
+  
+<br />
+
+## How-To's and Tutorials
+
+- [How to build a digital garden with TiddlyWiki](https://nesslabs.com/digital-garden-tiddlywiki) by Anne-Laure Le Cunff
+- [Install org-roam: an introductory technical guide with Doom Emacs](https://www.ianjones.us/2020-05-05-doom-emacs/) by Ian Jones
+- [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
+- [Webmentions - Joining the IndieWeb with Svelte](https://www.swyx.io/writing/clientside-webmentions) by Shawn Wang
+
 <br />
 
 ## Theory, Philosophy, and Navel-Gazing
@@ -46,8 +53,9 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 <br />
 
-## Common Groud: Zettlekasten, PKM, Wikis, and Related Concepts
+## Common Groud: Zettlekasten, Knowledge Graphs, Wikis, and Related Concepts
 
+- [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
 - [Zettlekasten: knowledge and info management](https://zettelkasten.de/)
 - [The Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1) by Abram Demski
 - [A web of wikis](https://doubleloop.net/2020/05/16/a-web-of-wikis/) by Neil Mather 
@@ -57,14 +65,6 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 <br />
 
-## How-To's and Tutorials
-
-- [How to build a digital garden with TiddlyWiki](https://nesslabs.com/digital-garden-tiddlywiki) by Anne-Laure Le Cunff
-- [Install org-roam: an introductory technical guide with Doom Emacs](https://www.ianjones.us/2020-05-05-doom-emacs/) by Ian Jones
-- [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
-- [Webmentions - Joining the IndieWeb with Svelte](https://www.swyx.io/writing/clientside-webmentions) by Shawn Wang
-
-<br />
 
 ## Digital Garden Directory
 
