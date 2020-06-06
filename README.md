@@ -100,7 +100,7 @@ Each listed with 🛠 build tools and 🌿 note themes
   - 🛠 Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter))
   - 🌿 Coding, Learning notes
   
-- [will Stedden](https://bonkerfield.org/)
+- [Will Stedden](https://bonkerfield.org/)
   - 🛠 Custom coding a [side project](https://bonkerfield.org/2020/05/swale-garden-stream/)
 
 - [Noah Trenaman](https://blog.noahtren.com/note/3acea2e1/)
