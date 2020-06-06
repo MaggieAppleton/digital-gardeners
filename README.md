@@ -37,6 +37,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [You and your mind garden](https://nesslabs.com/mind-garden) by Anne-Laure Le Cunff
 - [Digital Garden Terms of Service](https://www.swyx.io/writing/digital-garden-tos/) by Shawn Wang
 - [What is a digital garden?](https://www.christopherbiscardi.com/garden) by Chris Biscardi
+- [The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/) by Will Stedden 
 
 <br />
 
@@ -99,3 +100,9 @@ Each listed with 🛠 build tools and 🌿 note themes
   - 🛠 Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter))
   - 🌿 Coding, Learning notes
   
+- [will Stedden](https://bonkerfield.org/)
+  - 🛠 Custom coding a [side project](https://bonkerfield.org/2020/05/swale-garden-stream/)
+
+- [Noah Trenaman](https://blog.noahtren.com/note/3acea2e1/)
+  - 🛠 Unknown platform
+  - 🌿 neural networks, tools for thought, networked writing
