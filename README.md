@@ -50,6 +50,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [What is a digital garden?](https://www.christopherbiscardi.com/garden) by Chris Biscardi
 - [The Garden and the Stream: A Techno pastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) by Mike Caulfield
 - [The Garden and the Stream: An IndieWeb Pop-up Session](https://indieweb.org/2020/Pop-ups/GardenAndStream)
+- [The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/) by Will Stedden 
 
 <br />
 
@@ -147,3 +148,10 @@ Each listed with 🛠 build tools and 🌿 note themes
 - [Daniel Chapman](https://www.dschapman.com/notes)
   - 🛠 Gatsby
   - 🌿 Books, Writing, Poetry
+
+- [Will Stedden](https://bonkerfield.org/)
+  - 🛠 Custom coding a [side project](https://bonkerfield.org/2020/05/swale-garden-stream/)
+
+- [Noah Trenaman](https://blog.noahtren.com/note/3acea2e1/)
+  - 🛠 Unknown platform
+  - 🌿 neural networks, tools for thought, networked writing
