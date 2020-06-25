@@ -8,10 +8,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 <br />
 
 ## Gardening Tools
-  
-  - [Webmentions](https://indieweb.org/Webmention) - About the Webmentions system
-  - [Webmention.io](https://webmention.io/) - A service to add Webmentions to your Garden
-  - [Hypothesis](https://web.hypothes.is/) - A layer of social meta commentary
+ 
   
   #### Public Garden Notes
   - [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
@@ -30,6 +27,11 @@ A collective of gardeners publicly tending their digital notes on the interwebs
   - [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
   - [Obsidian](https://obsidian.md/) -  a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
   
+   #### Extra Tools
+  - [Webmentions](https://indieweb.org/Webmention) - About the Webmentions system
+     - [Webmention.io](https://webmention.io/) - A service to add Webmentions to your Garden
+  - [Hypothesis](https://web.hypothes.is/) - A layer of social meta commentary
+ 
 <br />
 
 ## How-To's and Tutorials
