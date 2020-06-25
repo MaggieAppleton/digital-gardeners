@@ -23,6 +23,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
   - [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Roam-like bidirectional links in Gatsby.js
   - [Gatsby Andy Theme](https://github.com/aravindballa/gatsby-theme-andy)
   - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
+  - [Simply Jekyll](https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll) - A Jekyll theme with bidirectional links, sidenotes, and transclusion
   
    #### Private Notes
   - [Roam](https://roamresearch.com/) - A personal notes system for interconnected thought
