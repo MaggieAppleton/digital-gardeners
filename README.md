@@ -10,7 +10,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 ## Gardening Tools
  
   
-  #### Public Garden Notes
+  #### Building a Public Garden
   - [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
     - [Stroll](https://giffmex.org/stroll/stroll.html) a notetaking tool built with the TiddlyWiki platform, with bi-directional links and other Roam-like features
     - [TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html) - TiddlyWiki with bi-directional linking
@@ -22,12 +22,12 @@ A collective of gardeners publicly tending their digital notes on the interwebs
   - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
   - [Simply Jekyll](https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll) - A Jekyll theme with bidirectional links, sidenotes, and transclusion
   
-   #### Private Notes
+   #### Building a Private Garden
   - [Roam](https://roamresearch.com/) - A personal notes system for interconnected thought
   - [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
   - [Obsidian](https://obsidian.md/) -  a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
   
-   #### Extra Tools
+   #### Extra Gardening Tools
   - [Webmentions](https://indieweb.org/Webmention) - About the Webmentions system
      - [Webmention.io](https://webmention.io/) - A service to add Webmentions to your Garden
   - [Hypothesis](https://web.hypothes.is/) - A layer of social meta commentary
