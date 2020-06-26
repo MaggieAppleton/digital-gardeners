@@ -8,7 +8,6 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 <br />
 
 ## Gardening Tools
- 
   
   #### Building a Public Garden
   - [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
@@ -21,6 +20,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
   - [Gatsby Andy Theme](https://github.com/aravindballa/gatsby-theme-andy)
   - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
   - [Simply Jekyll](https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll) - A Jekyll theme with bidirectional links, sidenotes, and transclusion
+  - [Foam](https://foambubble.github.io/foam/) - Roam-like personal note management and publishing system built inside VSCode
   
    #### Building a Private Garden
   - [Roam](https://roamresearch.com/) - A personal notes system for interconnected thought
