@@ -83,18 +83,18 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Maggie Appleton](http://maggieappleton.com/)   |  Gatsby + MDX   | Anthropology, metaphors, visual explanations, and web development 
 | [Chris Biscardi](https://www.christopherbiscardi.com/garden)   |  Sector / Toast?   | Web development, MDX, GraphQL, Gatsby 
 | [Wess Daniels](https://nurselog.online)   |  Tiddlywiki (Pre-Release 5.1.23)   | Culture and systems change, liberation theology, tech and pedagogy 
-| [Aengus McMillin](https://aengusmcmillin.com/brain)  |  Gatsby |    |
+| [Aengus McMillin](https://aengusmcmillin.com/brain)  |  Gatsby |  Programming, Stoicism  |
 | [Alzen Elza](https://notes.azlen.me/g3tibyfv/)  |  | Design, Conversational interfaces, Tools for thought
 | [Joel Hooks](https://joelhooks.com/)  |  Next.js  | Bootstrapping / indie-hacking, community building, web development,
 | [Ian Jones](https://ianjones.us/notes)  |  Gatsby  | Web development, Gatsby, Emacs 
 | [Wayan Jimmy](https://notebook.wayanjimmy.xyz) |  Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter)) | Coding, Learning notes 
  | [Markus](https://re1.dev/wiki/) |  Eleventy | Design, linux, privacy 
  | [Max Stoiber](https://notes.mxstbr.com/About_these_notes) |  The Mystery Andy System | React, web development
- | [Gwern](https://www.gwern.net/) |  | Quantified self, spaced repetition, bitcoin
+ | [Gwern](https://www.gwern.net/) | [JS, CSS, Hakyll, Haskell](https://www.gwern.net/About#tools) | Quantified self, spaced repetition, bitcoin
  | [Chris Aldrich](https://tw.boffosocko.com) |  TiddlyWiki + TiddlyBlink + TiddlyMap | Art of Memory, IndieWeb, humanities, commonplace books, thought spaces 
- | [Neil Mather](https://commonplace.doubleloop.net) |  Org-mode | 
+ | [Neil Mather](https://commonplace.doubleloop.net) |  Org-mode | Programming, politics, climate change |
  | [Gordon Brander](http://gordonbrander.com/pattern/) |  [Lettersmith](https://github.com/gordonbrander/lettersmith_py) | Design patterns, storytelling, systems 
- | [Bill Seitz](http://webseitz.fluxent.com/wiki/) |  Flask/Python with [WikiFlux](http://webseitz.fluxent.com/wiki/WikiFlux) 
+ | [Bill Seitz](http://webseitz.fluxent.com/wiki/) |  Flask/Python with [WikiFlux](http://webseitz.fluxent.com/wiki/WikiFlux) | Product management, startups, wiki theory, engineering |
  | [Daniel Chapman](https://www.dschapman.com/notes) |  Gatsby | Books, Writing, Poetry 
  | [Will Stedden](https://bonkerfield.org/) |  Custom coding a [side project](https://bonkerfield.org/2020/05/swale-garden-stream/) | Machine learning, automated language generation, quantum physics art, online transparency
 | [Salamn Ansari](https://notes.salman.io/) | Gatsby | Start-ups, engineering |
