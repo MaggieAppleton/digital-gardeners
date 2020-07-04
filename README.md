@@ -97,5 +97,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
  | [Bill Seitz](http://webseitz.fluxent.com/wiki/) |  Flask/Python with [WikiFlux](http://webseitz.fluxent.com/wiki/WikiFlux) 
  | [Daniel Chapman](https://www.dschapman.com/notes) |  Gatsby | Books, Writing, Poetry 
  | [Will Stedden](https://bonkerfield.org/) |  Custom coding a [side project](https://bonkerfield.org/2020/05/swale-garden-stream/) | Machine learning, automated language generation, quantum physics art, online transparency
- | [Noah Trenaman](https://blog.noahtren.com/note/3acea2e1/) |    | Neural networks, tools for thought, networked writing
 | [Salamn Ansari](https://notes.salman.io/) | Gatsby | Start-ups, engineering |
