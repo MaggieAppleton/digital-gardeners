@@ -11,8 +11,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 #### Building a Public Garden
 
 - [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
-  - [Stroll](https://giffmex.org/stroll/stroll.html) a notetaking tool built with the TiddlyWiki platform, with bi-directional links and other Roam-like features
-  - [TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html) - TiddlyWiki with bi-directional linking
+  - [Stroll](https://giffmex.org/stroll/stroll.html) a TiddlyWiki plugin with bi-directional links and other Roam-like features
   - [TiddlyMap](http://tiddlymap.org/) - a mind-map plugin that shows visualizations for TiddlyWiki.
 - [Gitbook](https://www.gitbook.com/)
 - [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
@@ -20,6 +19,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Gatsby Andy Theme](https://github.com/aravindballa/gatsby-theme-andy)
 - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
 - [Simply Jekyll](https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll) - A Jekyll theme with bidirectional links, sidenotes, and transclusion
+- [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - A simple, clean jekyll template with bi-directional links
 - [Foam](https://foambubble.github.io/foam/) - Roam-like personal note management and publishing system built inside VSCode
 
 #### Building a Private Garden
@@ -98,3 +98,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
  | [Daniel Chapman](https://www.dschapman.com/notes) |  Gatsby | Books, Writing, Poetry 
  | [Will Stedden](https://bonkerfield.org/) |  Custom coding a [side project](https://bonkerfield.org/2020/05/swale-garden-stream/) | Machine learning, automated language generation, quantum physics art, online transparency
  | [Noah Trenaman](https://blog.noahtren.com/note/3acea2e1/) |    | Neural networks, tools for thought, networked writing
+| [Salamn Ansari](https://notes.salman.io/) | Gatsby | Start-ups, engineering |
