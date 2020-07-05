@@ -98,3 +98,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
  | [Daniel Chapman](https://www.dschapman.com/notes) |  Gatsby | Books, Writing, Poetry 
  | [Will Stedden](https://bonkerfield.org/) |  Custom coding a [side project](https://bonkerfield.org/2020/05/swale-garden-stream/) | Machine learning, automated language generation, quantum physics art, online transparency
 | [Salamn Ansari](https://notes.salman.io/) | Gatsby | Start-ups, engineering |
+| [Waylon Walker](https://https://waylonwalker.com/) | Gatsby | python, data-engineering, coding, learning notes |
