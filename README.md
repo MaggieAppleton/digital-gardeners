@@ -59,10 +59,10 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 <br />
 
-## Common Groud: Zettlekasten, Knowledge Graphs, Wikis, and Related Concepts
+## Common Groud: Zettelkasten, Knowledge Graphs, Wikis, and Related Concepts
 
 - [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
-- [Zettlekasten: knowledge and info management](https://zettelkasten.de/)
+- [Zettelkasten: knowledge and info management](https://zettelkasten.de/)
 - [The Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1) by Abram Demski
 - [A web of wikis](https://doubleloop.net/2020/05/16/a-web-of-wikis/) by Neil Mather
 - [Bliki tooling](https://doubleloop.net/2020/05/02/bliki-tooling/) by Neil Mather
