@@ -27,6 +27,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Roam](https://roamresearch.com/) - A personal notes system for interconnected thought
 - [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
 - [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
+- [TheBrain](https://www.thebrain.com/) - A tool for taking interconnected notes with an interactive graph.
 
 #### Extra Gardening Tools
 
