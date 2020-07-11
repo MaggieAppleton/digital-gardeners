@@ -78,7 +78,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Andy Matuschuk](https://notes.andymatuschak.org/)  | The Mystery Andy System | Note-taking, education, tools for thought |
 | [Anne-Laure Le Cunff](https://www.mentalnodes.com/)    | TiddlyWiki   | Networked thinking, metacognition, evidence-based learning and self-education   |
 | [Tom Critchlow](https://tomcritchlow.com/)   | Jekyll              |  Indie consulting         |
-| [Shawn Wang](https://www.swyx.io/writing) | Gatsby | Web development, writing, speaking
+| [Shawn Wang](https://www.swyx.io/writing) | Sapper | Web development, writing, speaking
 | [Kevin Cummingham](https://kevincunningham.co.uk) |  Gatsby | Web development, React, AWS, GraphQL
 | [Maggie Appleton](http://maggieappleton.com/)   |  Gatsby + MDX   | Anthropology, metaphors, visual explanations, and web development 
 | [Chris Biscardi](https://www.christopherbiscardi.com/garden)   |  Sector / Toast?   | Web development, MDX, GraphQL, Gatsby 
