@@ -101,3 +101,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Salman Ansari](https://notes.salman.io/) | Gatsby | Start-ups, engineering |
 | [Fabien Benetou](https://fabien.benetou.fr/) | PmWiki (with plenty of extensions PHP/JS/NodeJS/WebXR/CSS/Processing/etc) | Everytyhing but particularly programming, tools, tools for thoughts |
 | [Waylon Walker](https://waylonwalker.com/notes) | Gatsby | python, data-engineering, coding, learning notes |
+| [Cristian Rojas](https://notes.crisrojas.com) | [Hugo Zettels theme](https://github.com/crisrojas/zettels) | Learning notes of diverse domains (drawing, coding, biology, introspection) |
