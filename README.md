@@ -99,3 +99,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
  | [Will Stedden](https://bonkerfield.org/) |  Custom coding a [side project](https://bonkerfield.org/2020/05/swale-garden-stream/) | Machine learning, automated language generation, quantum physics art, online transparency
 | [Salman Ansari](https://notes.salman.io/) | Gatsby | Start-ups, engineering |
 | [Fabien Benetou](https://fabien.benetou.fr/) | PmWiki (with plenty of extensions PHP/JS/NodeJS/WebXR/CSS/Processing/etc) | Everytyhing but particularly programming, tools, tools for thoughts |
+
