@@ -97,5 +97,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
  | [Bill Seitz](http://webseitz.fluxent.com/wiki/) |  Flask/Python with [WikiFlux](http://webseitz.fluxent.com/wiki/WikiFlux) | Product management, startups, wiki theory, engineering |
  | [Daniel Chapman](https://www.dschapman.com/notes) |  Gatsby | Books, Writing, Poetry 
  | [Will Stedden](https://bonkerfield.org/) |  Custom coding a [side project](https://bonkerfield.org/2020/05/swale-garden-stream/) | Machine learning, automated language generation, quantum physics art, online transparency
-| [Salamn Ansari](https://notes.salman.io/) | Gatsby | Start-ups, engineering |
 | [Waylon Walker](https://https://waylonwalker.com/) | Gatsby | python, data-engineering, coding, learning notes |
+| [Salman Ansari](https://notes.salman.io/) | Gatsby | Start-ups, engineering |
+| [Fabien Benetou](https://fabien.benetou.fr/) | PmWiki (with plenty of extensions PHP/JS/NodeJS/WebXR/CSS/Processing/etc) | Everytyhing but particularly programming, tools, tools for thoughts |
+
