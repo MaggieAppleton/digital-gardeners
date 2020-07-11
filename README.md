@@ -25,7 +25,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 #### Building a Private Garden
 
 - [Roam](https://roamresearch.com/) - A personal notes system for interconnected thought
-- [Org Roam](https://org-roam.readthedocs.io/en/develop/installation/)
+- [Org Roam](https://org-roam.readthedocs.io/en/master/)
 - [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
 - [TheBrain](https://www.thebrain.com/) - A tool for taking interconnected notes with an interactive graph.
 
@@ -98,7 +98,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
  | [Bill Seitz](http://webseitz.fluxent.com/wiki/) |  Flask/Python with [WikiFlux](http://webseitz.fluxent.com/wiki/WikiFlux) | Product management, startups, wiki theory, engineering |
  | [Daniel Chapman](https://www.dschapman.com/notes) |  Gatsby | Books, Writing, Poetry 
  | [Will Stedden](https://bonkerfield.org/) |  Custom coding a [side project](https://bonkerfield.org/2020/05/swale-garden-stream/) | Machine learning, automated language generation, quantum physics art, online transparency
-| [Waylon Walker](https://https://waylonwalker.com/) | Gatsby | python, data-engineering, coding, learning notes |
+| [Waylon Walker](https://waylonwalker.com/) | Gatsby | python, data-engineering, coding, learning notes |
 | [Salman Ansari](https://notes.salman.io/) | Gatsby | Start-ups, engineering |
 | [Fabien Benetou](https://fabien.benetou.fr/) | PmWiki (with plenty of extensions PHP/JS/NodeJS/WebXR/CSS/Processing/etc) | Everytyhing but particularly programming, tools, tools for thoughts |
 
