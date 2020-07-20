@@ -102,4 +102,5 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Fabien Benetou](https://fabien.benetou.fr/) | PmWiki (with plenty of extensions PHP/JS/NodeJS/WebXR/CSS/Processing/etc) | Everytyhing but particularly programming, tools, tools for thoughts |
 | [Waylon Walker](https://waylonwalker.com/notes) | Gatsby | python, data-engineering, coding, learning notes |
 | [Cristian Rojas](https://notes.crisrojas.com) | [Hugo Zettels theme](https://github.com/crisrojas/zettels) | 🇪🇸 Drawing, coding, biology, introspection |
+| [Chinarut Ruangchotvit](http://autobiography.chinarut.com) | TheBrain | autobiography, personal transformation |
 | [Steve Dondley](https://steve.dondley.com/notes/) | Jekyll, vimwiki | Tech, software, automation, some politics and issues |
