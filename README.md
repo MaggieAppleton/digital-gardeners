@@ -10,6 +10,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 #### Building a Public Garden
 
+- [Dendron](https://www.dendron.so/) - A structured note taking tool that merges the freedom of Roam-like linking with the order hierarchical organization  
 - [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
   - [Stroll](https://giffmex.org/stroll/stroll.html) a TiddlyWiki plugin with bi-directional links and other Roam-like features
   - [TiddlyMap](http://tiddlymap.org/) - a mind-map plugin that shows visualizations for TiddlyWiki.
