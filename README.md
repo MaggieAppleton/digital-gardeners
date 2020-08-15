@@ -22,6 +22,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - A simple, clean jekyll template with bi-directional links
 - [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A minimal template with backlinks, built in [Eleventy](https://11ty.dev)
 - [Foam](https://foambubble.github.io/foam/) - Roam-like personal note management and publishing system built inside VSCode
+- [Dendron](https://www.dendron.so/) - A structured note taking tool that merges the freedom of Roam-like linking with the order hierarchical organization  
 
 #### Building a Private Garden
 
