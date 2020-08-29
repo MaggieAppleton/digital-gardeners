@@ -107,3 +107,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Chinarut Ruangchotvit](http://autobiography.chinarut.com) | TheBrain | autobiography, personal transformation |
 | [Steve Dondley](https://steve.dondley.com/notes/) | Jekyll, vimwiki | Tech, software, automation, some politics and issues |
 | [Scott Spence](https://scottspence.com/garden/) | Gatsby + MDX | Web development, MDX, GraphQL, Gatsby, styled-components  |
+| [Yusuf Parak](https://ycp.so) | Vue, Nuxt, Nuxt-Content | Design, engineering, startups, indiehacking, Software |
