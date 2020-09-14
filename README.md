@@ -27,7 +27,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 #### Building a Private Garden
 
 - [Roam](https://roamresearch.com/) - A personal notes system for interconnected thought
-- [Org Roam](https://org-roam.readthedocs.io/en/master/) - non-hierarchical note-taking with org-mode in emacs
+- [Org Roam](https://www.orgroam.com/) - non-hierarchical note-taking with org-mode in emacs
 - [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
 - [TheBrain](https://www.thebrain.com/) - A tool for taking interconnected notes with an interactive graph.
 
