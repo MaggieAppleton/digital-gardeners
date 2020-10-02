@@ -110,3 +110,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Devine Lu Linvega](https://wiki.xxiivv.com) | C | Sailing, Design, Livecoding, Plan9
 | [Yusuf Parak](https://ycp.so) | Vue, Nuxt, Nuxt-Content | Design, engineering, startups, indiehacking, Software |
 | [Milkii Brewster](https://wiki.thingsandstuff.org) | MediaWiki | Various life and tech topics, mostly Linux and audio FOSS |
+| [Marshall Bowers](https://maxdeviant.github.io/knowledge/) | [mdBook](https://github.com/rust-lang/mdBook) | Anything and everything, but currently mostly software development and tech
