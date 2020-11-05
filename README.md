@@ -110,4 +110,5 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Devine Lu Linvega](https://wiki.xxiivv.com) | C | Sailing, Design, Livecoding, Plan9
 | [Yusuf Parak](https://ycp.so) | Vue, Nuxt, Nuxt-Content | Design, engineering, startups, indiehacking, Software |
 | [Milkii Brewster](https://wiki.thingsandstuff.org) | MediaWiki | Various life and tech topics, mostly Linux and audio FOSS |
+| [Andy Byers](https://notes.ajb.app)  |  Jekyll  |   notes on coding, note taking, personal knowledge management and other random thoughts.  |
 | [Abstractxan](https://abstractxan.xyz) | C++ ([Mizi](https://github.com/AbstractXan/Mizi)) | Tech, Art, Curating resources |
