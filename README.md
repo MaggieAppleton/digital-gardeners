@@ -78,7 +78,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 | Garderner & Link | 🛠 Build Tools  | 🌿Note Themes |
 | -------------------- | ------------------ | ----------------- |
-| [Andy Matuschuk](https://notes.andymatuschak.org/)  | The Mystery Andy System | Note-taking, education, tools for thought |
+| [Andy Matuschak](https://notes.andymatuschak.org/)  | The Mystery Andy System | Note-taking, education, tools for thought |
 | [Anne-Laure Le Cunff](https://www.mentalnodes.com/)    | TiddlyWiki   | Networked thinking, metacognition, evidence-based learning and self-education   |
 | [Tom Critchlow](https://tomcritchlow.com/)   | Jekyll              |  Indie consulting         |
 | [Shawn Wang](https://www.swyx.io/writing) | Sapper | Web development, writing, speaking
@@ -110,5 +110,6 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Devine Lu Linvega](https://wiki.xxiivv.com) | C | Sailing, Design, Livecoding, Plan9
 | [Yusuf Parak](https://ycp.so) | Vue, Nuxt, Nuxt-Content | Design, engineering, startups, indiehacking, Software |
 | [Milkii Brewster](https://wiki.thingsandstuff.org) | MediaWiki | Various life and tech topics, mostly Linux and audio FOSS |
+| [Maxime Vaillancourt](https://maximevaillancourt.com/notes) | Jekyll ([open-source template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)) | personal growth, ruby, web, linux |
 | [Andy Byers](https://notes.ajb.app)  |  Jekyll  |   notes on coding, note taking, personal knowledge management and other random thoughts.  |
 | [Abstractxan](https://abstractxan.xyz) | C++ ([Mizi](https://github.com/AbstractXan/Mizi)) | Tech, Art, Curating resources |
