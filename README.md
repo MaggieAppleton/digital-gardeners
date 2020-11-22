@@ -114,3 +114,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Andy Byers](https://notes.ajb.app)  |  Jekyll  |   notes on coding, note taking, personal knowledge management and other random thoughts.  |
 | [Abstractxan](https://abstractxan.xyz) | C++ ([Mizi](https://github.com/AbstractXan/Mizi)) | Tech, Art, Curating resources |
 | [Nikita Voloboev](https://wiki.nikitavoloboev.xyz) | GitBook | Tool obsessed. Code, web dev, art. |
+| [Luciano Strika](https://strikingloo.github.io/wiki/) | Jekyll | Personal Wiki, Digital Garden. StrikingLoo's Haphazard Repository of Knowledge, Opinions and Trivia |
