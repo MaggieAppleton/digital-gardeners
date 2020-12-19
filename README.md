@@ -23,6 +23,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A minimal template with backlinks, built in [Eleventy](https://11ty.dev)
 - [Foam](https://foambubble.github.io/foam/) - Roam-like personal note management and publishing system built inside VSCode
 - [Dendron](https://www.dendron.so/) - A structured note taking tool that merges the freedom of Roam-like linking with the order hierarchical organization  
+- [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) - Turn your Roam into a Digital Garden! Allows publishing allowed notes from Roam Research as a digital garden
 
 #### Building a Private Garden
 
