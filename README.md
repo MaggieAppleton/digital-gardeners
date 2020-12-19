@@ -64,7 +64,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 <br />
 
-## Common Groud: Zettelkasten, Knowledge Graphs, Wikis, and Related Concepts
+## Common Ground: Zettelkasten, Knowledge Graphs, Wikis, and Related Concepts
 
 - [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
 - [Zettelkasten: knowledge and info management](https://zettelkasten.de/)
@@ -78,7 +78,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 ## Digital Garden Directory
 
-| Garderner & Link | 🛠 Build Tools  | 🌿Note Themes |
+| Gardener & Link | 🛠 Build Tools  | 🌿Note Themes |
 | -------------------- | ------------------ | ----------------- |
 | [Andy Matuschak](https://notes.andymatuschak.org/)  | The Mystery Andy System | Note-taking, education, tools for thought |
 | [Anne-Laure Le Cunff](https://www.mentalnodes.com/)    | TiddlyWiki   | Networked thinking, metacognition, evidence-based learning and self-education   |
