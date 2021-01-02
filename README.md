@@ -22,6 +22,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - A simple, clean jekyll template with bi-directional links
 - [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A minimal template with backlinks, built in [Eleventy](https://11ty.dev)
 - [Foam](https://foambubble.github.io/foam/) - Roam-like personal note management and publishing system built inside VSCode
+- [Foamy NextJS](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
 - [Dendron](https://www.dendron.so/) - A structured note taking tool that merges the freedom of Roam-like linking with the order hierarchical organization  
 - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) - Turns a [Roam Research](https://roamresearch.com/) database into a Digital Garden
 
@@ -120,4 +121,5 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Piotr Gaczkowski](https://garden.doomhammer.info) | Jekyll + Roam Research as backend | Book notes, Codex Vitae, cocktails, experiments |
 | [Tymon Zaniewski](garden.tymon-zaniewski.xyz) | Jekyll ([open-source template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)) | personal wiki, DIY electronics, making music |
 | [Aquiles Carattino](https://www.aquiles.me) | Aqui Brain Dump | Science. Notes on books and papers. Technology Transfer. Working in Public |
+| [Yenly Ma](https://yenly.wtf) | [Foamy NextJS](https://github.com/yenly/foamy-nextjs) and NextJS with MDX | Digital garden of gardens. Learning and making in public. |
 
