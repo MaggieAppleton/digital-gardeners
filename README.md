@@ -110,8 +110,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Chinarut Ruangchotvit](http://autobiography.chinarut.com) | TheBrain | autobiography, personal transformation |
 | [Steve Dondley](https://steve.dondley.com/notes/) | Jekyll, vimwiki | Tech, software, automation, some politics and issues |
 | [Scott Spence](https://scottspence.com/garden/) | Gatsby + MDX | Web development, MDX, GraphQL, Gatsby, styled-components  |
-| [Devine Lu Linvega](https://wiki.xxiivv.com) | C | Sailing, Design, Livecoding, Plan9
-| [Yusuf Parak](https://ycp.so) | Vue, Nuxt, Nuxt-Content | Design, engineering, startups, indiehacking, Software |
+| [Devine Lu Linvega](https://wiki.xxiivv.com) | C | Sailing, Design, Livecoding, Plan9 |
 | [Milkii Brewster](https://wiki.thingsandstuff.org) | MediaWiki | Various life and tech topics, mostly Linux and audio FOSS |
 | [Maxime Vaillancourt](https://maximevaillancourt.com/notes) | Jekyll ([open-source template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)) | personal growth, ruby, web, linux |
 | [Andy Byers](https://notes.ajb.app)  |  Jekyll  |   notes on coding, note taking, personal knowledge management and other random thoughts.  |
