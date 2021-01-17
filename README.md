@@ -119,7 +119,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Nikita Voloboev](https://wiki.nikitavoloboev.xyz) | GitBook | Tool obsessed. Code, web dev, art. |
 | [Luciano Strika](https://strikingloo.github.io/wiki/) | Jekyll | Personal Wiki, Digital Garden. StrikingLoo's Haphazard Repository of Knowledge, Opinions and Trivia |
 | [Piotr Gaczkowski](https://garden.doomhammer.info) | Jekyll + Roam Research as backend | Book notes, Codex Vitae, cocktails, experiments |
-| [Tymon Zaniewski](garden.tymon-zaniewski.xyz) | Jekyll ([open-source template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)) | personal wiki, DIY electronics, making music |
+| [Tymon Zaniewski](https://garden.tymon-zaniewski.xyz) | Jekyll ([open-source template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)) | personal wiki, DIY electronics, making music |
 | [Aquiles Carattino](https://www.aquiles.me) | Aqui Brain Dump | Science. Notes on books and papers. Technology Transfer. Working in Public |
 | [Yenly Ma](https://yenly.wtf) | [Foamy NextJS](https://github.com/yenly/foamy-nextjs) and NextJS with MDX | Digital garden of gardens. Learning and making in public. |
 | [Rosano](https://rosano.hmm.garden) | Hyperdraft + [Garden](https://hmm.garden) | Music / Design / Technology |
