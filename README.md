@@ -123,3 +123,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Aquiles Carattino](https://www.aquiles.me) | Aqui Brain Dump | Science. Notes on books and papers. Technology Transfer. Working in Public |
 | [Yenly Ma](https://yenly.wtf) | [Foamy NextJS](https://github.com/yenly/foamy-nextjs) and NextJS with MDX | Digital garden of gardens. Learning and making in public. |
 | [Rosano](https://rosano.hmm.garden) | Hyperdraft + [Garden](https://hmm.garden) | Music / Design / Technology |
+| [Chase McCoy](https://chasem.co/notes) | Gatsby + MDX | Web development, CSS, design systems |
