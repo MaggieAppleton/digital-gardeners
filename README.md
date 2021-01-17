@@ -26,6 +26,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Dendron](https://www.dendron.so/) - A structured note taking tool that merges the freedom of Roam-like linking with the order hierarchical organization  
 - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) - Turns a [Roam Research](https://roamresearch.com/) database into a Digital Garden
 - [Hyperdraft](https://hyperdraft.rosano.ca) - Notes app that makes it simple to create a static site from plaintext / Markdown.
+- [Gatsby Bootcamp](https://www.youtube.com/watch?v=8t0vNu2fCCM) - ~4.5 hour video covering the basics of Gatsby; the first hour or so is especially helpful for getting a basic site up-and-running
 
 #### Building a Private Garden
 
@@ -123,3 +124,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Aquiles Carattino](https://www.aquiles.me) | Aqui Brain Dump | Science. Notes on books and papers. Technology Transfer. Working in Public |
 | [Yenly Ma](https://yenly.wtf) | [Foamy NextJS](https://github.com/yenly/foamy-nextjs) and NextJS with MDX | Digital garden of gardens. Learning and making in public. |
 | [Rosano](https://rosano.hmm.garden) | Hyperdraft + [Garden](https://hmm.garden) | Music / Design / Technology |
+| [Anne Li](https://garden.anli.io) | Gatsby | Media consumption, tech, growth, thoughts & words in English & Chinese |
