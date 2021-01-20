@@ -124,3 +124,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Yenly Ma](https://yenly.wtf) | [Foamy NextJS](https://github.com/yenly/foamy-nextjs) and NextJS with MDX | Digital garden of gardens. Learning and making in public. |
 | [Rosano](https://rosano.hmm.garden) | Hyperdraft + [Garden](https://hmm.garden) | Music / Design / Technology |
 | [Chase McCoy](https://chasem.co/notes) | Gatsby + MDX | Web development, CSS, design systems |
+| [Charlie Trochlil](https://blog.charlietrochlil.com) | Maxime's [jekyll template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) | Learning, art, online spaces, baking |
