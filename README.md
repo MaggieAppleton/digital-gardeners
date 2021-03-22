@@ -26,6 +26,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Dendron](https://www.dendron.so/) - A structured note taking tool that merges the freedom of Roam-like linking with the order hierarchical organization  
 - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) - Turns a [Roam Research](https://roamresearch.com/) database into a Digital Garden
 - [Hyperdraft](https://hyperdraft.rosano.ca) - Notes app that makes it simple to create a static site from plaintext / Markdown.
+- [Neuron](https://github.com/srid/neuron) - Managing and publishing system for plain-text Zettelkasten-style notes.
 
 #### Building a Private Garden
 
