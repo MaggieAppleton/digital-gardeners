@@ -23,13 +23,20 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A minimal template with backlinks, built in [Eleventy](https://11ty.dev)
 - [Foam](https://foambubble.github.io/foam/) - Roam-like personal note management and publishing system built inside VSCode
 - [Foamy NextJS](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
-- [Dendron](https://www.dendron.so/) - A structured note taking tool that merges the freedom of Roam-like linking with the order hierarchical organization  
+- [Dendron](https://www.dendron.so/) - A structured note taking tool that merges the freedom of Roam-like linking with the order hierarchical organization
 - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) - Turns a [Roam Research](https://roamresearch.com/) database into a Digital Garden
 - [Hyperdraft](https://hyperdraft.rosano.ca) - Notes app that makes it simple to create a static site from plaintext / Markdown.
+- [Roam Garden](https://roam.garden/) - Turns a [Roam Research](https://roamresearch.com/) database into a Digital Garden
+- [Neuron](https://github.com/srid/neuron) - Managing and publishing system for plain-text Zettelkasten-style notes.
+
 
 #### Building a Private Garden
 
 - [Roam Research](https://roamresearch.com/) - A personal notes system for interconnected thought
+  - See the following resources for converting your private garden in Roam to a public garden:
+    - [Roam Garden](https://roam.garden/) a service that does all the setup for you based on JSON export
+    - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) Gatsby theme that supports using Roam as a source
+    - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) Jekyll based converter for your Roam Data
 - [Org Roam](https://www.orgroam.com/) - non-hierarchical note-taking with org-mode in emacs
 - [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
 - [TheBrain](https://www.thebrain.com/) - A tool for taking interconnected notes with an interactive graph.
@@ -48,6 +55,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Install org-roam: an introductory technical guide with Doom Emacs](https://www.ianjones.us/2020-05-05-doom-emacs/) by Ian Jones
 - [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
 - [Webmentions - Joining the IndieWeb with Svelte](https://www.swyx.io/writing/clientside-webmentions) by Shawn Wang
+- [How to plant a Garden](https://www.loom.com/share/05ac911308554668a6b35fd2b321d3d9) a video walkthrough for converting your RoamResearch DB into a public garden by [Vlad Sitalo](https://twitter.com/VladyslavSitalo)
 
 <br />
 
@@ -87,22 +95,22 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Tom Critchlow](https://tomcritchlow.com/)   | Jekyll              |  Indie consulting         |
 | [Shawn Wang](https://www.swyx.io/writing) | Sapper | Web development, writing, speaking
 | [Kevin Cummingham](https://kevincunningham.co.uk) |  Gatsby | Web development, React, AWS, GraphQL
-| [Maggie Appleton](https://maggieappleton.com/garden)   |  Gatsby + MDX   | Anthropology, metaphors, visual explanations, and web development 
-| [Chris Biscardi](https://www.christopherbiscardi.com/garden)   |  Sector / Toast?   | Web development, MDX, GraphQL, Gatsby 
-| [Wess Daniels](https://nurselog.online)   |  Tiddlywiki (Pre-Release 5.1.23)   | Culture and systems change, liberation theology, tech and pedagogy 
+| [Maggie Appleton](https://maggieappleton.com/garden)   |  Gatsby + MDX   | Anthropology, metaphors, visual explanations, and web development
+| [Chris Biscardi](https://www.christopherbiscardi.com/garden)   |  Sector / Toast?   | Web development, MDX, GraphQL, Gatsby
+| [Wess Daniels](https://nurselog.online)   |  Tiddlywiki (Pre-Release 5.1.23)   | Culture and systems change, liberation theology, tech and pedagogy
 | [Aengus McMillin](https://aengusmcmillin.com/brain)  |  Gatsby |  Programming, Stoicism  |
 | [Azlen Elza](https://notes.azlen.me/g3tibyfv/)  |  | Design, Conversational interfaces, Tools for thought
-| [Joel Hooks](https://joelhooks.com/)  |  Next.js  | Bootstrapping / indie-hacking, community building, web development,
+| [Joel Hooks](https://joelhooks.com/)  |  Gatsby + MDX  | Bootstrapping / indie-hacking, community building, web development,
 | [Ian Jones](https://ianjones.us/notes)  |  Gatsby  | Web development, Gatsby, Emacs 
 | [Wayan Jimmy](https://notebook.wayanjimmy.xyz) |  Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter)) | Coding, Learning notes 
-| [Markus](https://re1.dev/wiki/) |  Eleventy | Design, linux, privacy 
+| [Markus](https://re1.dev/wiki/) |  Eleventy | Design, linux, privacy
 | [Max Stoiber](https://notes.mxstbr.com/About_these_notes) |  The Mystery Andy System | React, web development
 | [Gwern](https://www.gwern.net/) | [JS, CSS, Hakyll, Haskell](https://www.gwern.net/About#tools) | Quantified self, spaced repetition, bitcoin
-| [Chris Aldrich](https://tw.boffosocko.com) |  TiddlyWiki + TiddlyBlink + TiddlyMap | Art of Memory, IndieWeb, humanities, commonplace books, thought spaces 
+| [Chris Aldrich](https://tw.boffosocko.com) |  TiddlyWiki + TiddlyBlink + TiddlyMap | Art of Memory, IndieWeb, humanities, commonplace books, thought spaces
 | [Neil Mather](https://commonplace.doubleloop.net) |  Org-mode | Programming, politics, climate change |
-| [Gordon Brander](http://gordonbrander.com/pattern/) |  [Lettersmith](https://github.com/gordonbrander/lettersmith_py) | Design patterns, storytelling, systems 
+| [Gordon Brander](http://gordonbrander.com/pattern/) |  [Lettersmith](https://github.com/gordonbrander/lettersmith_py) | Design patterns, storytelling, systems
 | [Bill Seitz](http://webseitz.fluxent.com/wiki/) |  Flask/Python with [WikiFlux](http://webseitz.fluxent.com/wiki/WikiFlux) | Product management, startups, wiki theory, engineering |
-| [Daniel Chapman](https://www.dschapman.com/notes) |  Gatsby | Books, Writing, Poetry 
+| [Daniel Chapman](https://www.dschapman.com/notes) |  Gatsby | Books, Writing, Poetry
 | [Will Stedden](https://bonkerfield.org/) |  Custom coding a [side project](https://bonkerfield.org/2020/05/swale-garden-stream/) | Machine learning, automated language generation, quantum physics art, online transparency
 | [Salman Ansari](https://notes.salman.io/) | Gatsby | Start-ups, engineering |
 | [Fabien Benetou](https://fabien.benetou.fr/) | PmWiki (with plenty of extensions PHP/JS/NodeJS/WebXR/CSS/Processing/etc) | Everytyhing but particularly programming, tools, tools for thoughts |
@@ -125,3 +133,8 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Rosano](https://rosano.hmm.garden) | Hyperdraft + [Garden](https://hmm.garden) | Music / Design / Technology |
 | [Chase McCoy](https://chasem.co/notes) | Gatsby + MDX | Web development, CSS, design systems |
 | [Charlie Trochlil](https://blog.charlietrochlil.com) | Maxime's [jekyll template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) | Learning, art, online spaces, baking |
+| [Hiran Venugopalan](https://notes.hiran.in/) | Obsidian + Jekyll | Design, Branding, Business, Typography, Product |
+| [Vlad Sitalo](https://vlad.roam.garden/) | [Roam Garden](https://roam.garden/) | How to define code readability objectively? Applying SRS to all the things, Building Roam Garden |
+| [Joel Chan](https://joelchan.roam.garden/) | [Roam Garden](https://roam.garden/) | Knowledge synthesis, Scientific Creativity |
+| [Blue Book](https://lyz-code.github.io/blue-book/) | MkDocs | Python, DevOps, life automation, health, art, ...|
+| [Oshyan Greene](https://garden.oshyan.com) | Discourse | Productivity, Digital Gardening, Ideas, Reviews, and Recommendations |
