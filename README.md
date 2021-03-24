@@ -26,6 +26,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Dendron](https://www.dendron.so/) - A structured note taking tool that merges the freedom of Roam-like linking with the order hierarchical organization
 - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) - Turns a [Roam Research](https://roamresearch.com/) database into a Digital Garden
 - [Hyperdraft](https://hyperdraft.rosano.ca) - Notes app that makes it simple to create a static site from plaintext / Markdown.
+- [Neuron](https://github.com/srid/neuron) - Managing and publishing system for plain-text Zettelkasten-style notes.
 
 #### Building a Private Garden
 
@@ -92,9 +93,9 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Wess Daniels](https://nurselog.online)   |  Tiddlywiki (Pre-Release 5.1.23)   | Culture and systems change, liberation theology, tech and pedagogy
 | [Aengus McMillin](https://aengusmcmillin.com/brain)  |  Gatsby |  Programming, Stoicism  |
 | [Azlen Elza](https://notes.azlen.me/g3tibyfv/)  |  | Design, Conversational interfaces, Tools for thought
-| [Joel Hooks](https://joelhooks.com/)  |  Next.js  | Bootstrapping / indie-hacking, community building, web development,
-| [Ian Jones](https://ianjones.us/notes)  |  Gatsby  | Web development, Gatsby, Emacs
-| [Wayan Jimmy](https://notebook.wayanjimmy.xyz) |  Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter)) | Coding, Learning notes
+| [Joel Hooks](https://joelhooks.com/)  |  Gatsby + MDX  | Bootstrapping / indie-hacking, community building, web development,
+| [Ian Jones](https://ianjones.us/notes)  |  Gatsby  | Web development, Gatsby, Emacs 
+| [Wayan Jimmy](https://notebook.wayanjimmy.xyz) |  Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter)) | Coding, Learning notes 
 | [Markus](https://re1.dev/wiki/) |  Eleventy | Design, linux, privacy
 | [Max Stoiber](https://notes.mxstbr.com/About_these_notes) |  The Mystery Andy System | React, web development
 | [Gwern](https://www.gwern.net/) | [JS, CSS, Hakyll, Haskell](https://www.gwern.net/About#tools) | Quantified self, spaced repetition, bitcoin
@@ -125,3 +126,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Rosano](https://rosano.hmm.garden) | Hyperdraft + [Garden](https://hmm.garden) | Music / Design / Technology |
 | [Chase McCoy](https://chasem.co/notes) | Gatsby + MDX | Web development, CSS, design systems |
 | [Blue Book](https://lyz-code.github.io/blue-book/) | MkDocs | Python, DevOps, life automation, health, art, ...|
+| [Oshyan Greene](https://garden.oshyan.com) | Discourse | Productivity, Digital Gardening, Ideas, Reviews, and Recommendations |
