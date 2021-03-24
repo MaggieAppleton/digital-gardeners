@@ -132,6 +132,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Yenly Ma](https://yenly.wtf) | [Foamy NextJS](https://github.com/yenly/foamy-nextjs) and NextJS with MDX | Digital garden of gardens. Learning and making in public. |
 | [Rosano](https://rosano.hmm.garden) | Hyperdraft + [Garden](https://hmm.garden) | Music / Design / Technology |
 | [Chase McCoy](https://chasem.co/notes) | Gatsby + MDX | Web development, CSS, design systems |
+| [Hiran Venugopalan](https://notes.hiran.in/) | Obsidian + Jekyll | Design, Branding, Business, Typography, Product |
 | [Vlad Sitalo](https://vlad.roam.garden/) | [Roam Garden](https://roam.garden/) | How to define code readability objectively? Applying SRS to all the things, Building Roam Garden |
 | [Joel Chan](https://joelchan.roam.garden/) | [Roam Garden](https://roam.garden/) | Knowledge synthesis, Scientific Creativity |
 | [Blue Book](https://lyz-code.github.io/blue-book/) | MkDocs | Python, DevOps, life automation, health, art, ...|
