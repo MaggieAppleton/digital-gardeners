@@ -27,6 +27,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) - Turns a [Roam Research](https://roamresearch.com/) database into a Digital Garden
 - [Hyperdraft](https://hyperdraft.rosano.ca) - Notes app that makes it simple to create a static site from plaintext / Markdown.
 - [Neuron](https://github.com/srid/neuron) - Managing and publishing system for plain-text Zettelkasten-style notes.
+- [mkdocs-newsletter](https://lyz-code.github.io/mkdocs-newsletter/) - Plugin to show the changes of MkDocs digital gardens in a user friendly format, at the same time that it's easy for the authors to maintain.
 
 #### Building a Private Garden
 
@@ -94,8 +95,8 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Aengus McMillin](https://aengusmcmillin.com/brain)  |  Gatsby |  Programming, Stoicism  |
 | [Azlen Elza](https://notes.azlen.me/g3tibyfv/)  |  | Design, Conversational interfaces, Tools for thought
 | [Joel Hooks](https://joelhooks.com/)  |  Gatsby + MDX  | Bootstrapping / indie-hacking, community building, web development,
-| [Ian Jones](https://ianjones.us/notes)  |  Gatsby  | Web development, Gatsby, Emacs 
-| [Wayan Jimmy](https://notebook.wayanjimmy.xyz) |  Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter)) | Coding, Learning notes 
+| [Ian Jones](https://ianjones.us/notes)  |  Gatsby  | Web development, Gatsby, Emacs
+| [Wayan Jimmy](https://notebook.wayanjimmy.xyz) |  Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter)) | Coding, Learning notes
 | [Markus](https://re1.dev/wiki/) |  Eleventy | Design, linux, privacy
 | [Max Stoiber](https://notes.mxstbr.com/About_these_notes) |  The Mystery Andy System | React, web development
 | [Gwern](https://www.gwern.net/) | [JS, CSS, Hakyll, Haskell](https://www.gwern.net/About#tools) | Quantified self, spaced repetition, bitcoin
