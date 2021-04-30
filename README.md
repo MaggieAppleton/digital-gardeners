@@ -56,7 +56,8 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
 - [Webmentions - Joining the IndieWeb with Svelte](https://www.swyx.io/writing/clientside-webmentions) by Shawn Wang
 - [How to plant a Garden](https://www.loom.com/share/05ac911308554668a6b35fd2b321d3d9) a video walkthrough for converting your RoamResearch DB into a public garden by [Vlad Sitalo](https://twitter.com/VladyslavSitalo)
-- [5 No Code Digital Gardening Tools](https://ianjones.us/notes/digital-garden/five-no-code-digital-gardens) to get started if you don't know how to code.
+- [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening) by Maggie Appleton
+- [5 No Code Digital Gardening Tools](https://ianjones.us/notes/digital-garden/five-no-code-digital-gardens) by Ian Jones
 
 <br />
 
