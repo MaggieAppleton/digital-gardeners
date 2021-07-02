@@ -28,7 +28,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Hyperdraft](https://hyperdraft.rosano.ca) - Turns plain markdown notes into a website as you write. Easy to setup and doesn't require builds or deploys.
 - [Roam Garden](https://roam.garden/) - Turns a [Roam Research](https://roamresearch.com/) database into a public website.
 - [Neuron](https://github.com/srid/neuron) - Managing and publishing system for plain-text Zettelkasten-style notes.
-- [mkdocs-newsletter](https://lyz-code.github.io/mkdocs-newsletter/) - Plugin to show the changes of MkDocs digital gardens in a user friendly format, at the same time that it's easy for the authors to maintain.
+- [Innos Notes](https://innos.io/) – Features include parallel pages, content blocks, and knowledge graph visualisations.
 
 
 #### Building a Private Garden
@@ -39,7 +39,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
     - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) Gatsby theme that supports using Roam as a source
     - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) Jekyll based converter for your Roam Data
 - [Org Roam](https://www.orgroam.com/) - non-hierarchical note-taking with org-mode in emacs
-- [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
+- [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files. Also allows you to publish selections of your graph to the open web.
 - [TheBrain](https://www.thebrain.com/) - A tool for taking interconnected notes with an interactive graph.
 
 #### Extra Gardening Tools
@@ -47,6 +47,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Webmentions](https://indieweb.org/Webmention) - About the Webmentions system
   - [Webmention.io](https://webmention.io/) - A service to add Webmentions to your Garden
 - [Hypothesis](https://web.hypothes.is/) - A layer of social meta commentary
+- [mkdocs-newsletter](https://lyz-code.github.io/mkdocs-newsletter/) - An add-on to the [MKdocs](https://www.mkdocs.org/) platform that generates a newsletter logging which pages have changed
 
 <br />
 
@@ -145,4 +146,3 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [David Ralph Lewis](https://notes.davidralphlewis.co.uk) | TiddlyWiki | Writing, poetry, wellbeing, psychology |
 | [Soren Bjornstad](https://zettelkasten.sorenbjornstad.com) | TiddlyWiki + homegrown scripts | Almost everything; emphasis on tech, reading, and how to live |
 | [Paul Batchelor](https://pbat.ch/wiki) | [WeeWiki](https://pbat.ch/wiki/weewiki) | Computer Music, Audio Programming, Literate Programming, Food |
-
