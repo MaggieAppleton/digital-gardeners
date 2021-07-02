@@ -10,6 +10,12 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 #### Building a Public Garden
 
+- [Roam Research](https://roamresearch.com/) - A personal notes system for interconnected thought
+  - See the following resources for converting your private garden in Roam to a public garden:
+    - [Roam Garden](https://roam.garden/) a service that does all the setup for you based on JSON export
+    - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) Gatsby theme that supports using Roam as a source
+    - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) Jekyll based converter for your Roam Data
+- [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files. Also allows you to publish selections of your graph to the open web.
 - [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
   - [Stroll](https://giffmex.org/stroll/stroll.html) a TiddlyWiki plugin with bi-directional links and other Roam-like features
   - [TiddlyMap](http://tiddlymap.org/) - a mind-map plugin that shows visualizations for TiddlyWiki.
@@ -30,16 +36,9 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Neuron](https://github.com/srid/neuron) - Managing and publishing system for plain-text Zettelkasten-style notes.
 - [Innos Notes](https://innos.io/) – Features include parallel pages, content blocks, and knowledge graph visualisations.
 
-
 #### Building a Private Garden
 
-- [Roam Research](https://roamresearch.com/) - A personal notes system for interconnected thought
-  - See the following resources for converting your private garden in Roam to a public garden:
-    - [Roam Garden](https://roam.garden/) a service that does all the setup for you based on JSON export
-    - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) Gatsby theme that supports using Roam as a source
-    - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) Jekyll based converter for your Roam Data
 - [Org Roam](https://www.orgroam.com/) - non-hierarchical note-taking with org-mode in emacs
-- [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files. Also allows you to publish selections of your graph to the open web.
 - [TheBrain](https://www.thebrain.com/) - A tool for taking interconnected notes with an interactive graph.
 
 #### Extra Gardening Tools
