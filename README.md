@@ -24,14 +24,20 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Foam](https://foambubble.github.io/foam/) - Roam-like personal note management and publishing system built inside VSCode
 - [Foamy NextJS](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
 - [Dendron](https://www.dendron.so/) - A structured note taking tool that merges the freedom of Roam-like linking with the order hierarchical organization
-- [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) - Turns a [Roam Research](https://roamresearch.com/) database into a Digital Garden
-- [Hyperdraft](https://hyperdraft.rosano.ca) - Notes app that makes it simple to create a static site from plaintext / Markdown.
+- [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) - Turns a [Roam Research](https://roamresearch.com/) database into a public website.
+- [Hyperdraft](https://hyperdraft.rosano.ca) - Turns plain markdown notes into a website as you write. Easy to setup and doesn't require builds or deploys.
+- [Roam Garden](https://roam.garden/) - Turns a [Roam Research](https://roamresearch.com/) database into a public website.
 - [Neuron](https://github.com/srid/neuron) - Managing and publishing system for plain-text Zettelkasten-style notes.
 - [mkdocs-newsletter](https://lyz-code.github.io/mkdocs-newsletter/) - Plugin to show the changes of MkDocs digital gardens in a user friendly format, at the same time that it's easy for the authors to maintain.
+
 
 #### Building a Private Garden
 
 - [Roam Research](https://roamresearch.com/) - A personal notes system for interconnected thought
+  - See the following resources for converting your private garden in Roam to a public garden:
+    - [Roam Garden](https://roam.garden/) a service that does all the setup for you based on JSON export
+    - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) Gatsby theme that supports using Roam as a source
+    - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) Jekyll based converter for your Roam Data
 - [Org Roam](https://www.orgroam.com/) - non-hierarchical note-taking with org-mode in emacs
 - [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
 - [TheBrain](https://www.thebrain.com/) - A tool for taking interconnected notes with an interactive graph.
@@ -50,6 +56,9 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Install org-roam: an introductory technical guide with Doom Emacs](https://www.ianjones.us/2020-05-05-doom-emacs/) by Ian Jones
 - [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
 - [Webmentions - Joining the IndieWeb with Svelte](https://www.swyx.io/writing/clientside-webmentions) by Shawn Wang
+- [How to plant a Garden](https://www.loom.com/share/05ac911308554668a6b35fd2b321d3d9) a video walkthrough for converting your RoamResearch DB into a public garden by [Vlad Sitalo](https://twitter.com/VladyslavSitalo)
+- [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening) by Maggie Appleton
+- [5 No Code Digital Gardening Tools](https://ianjones.us/notes/digital-garden/five-no-code-digital-gardens) by Ian Jones
 
 <br />
 
@@ -112,7 +121,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Cristian Rojas](https://notes.crisrojas.com) | [Hugo Zettels theme](https://github.com/crisrojas/zettels)   | 🇪🇸 Drawing, coding, biology, introspection   |
 | [Chinarut Ruangchotvit](http://autobiography.chinarut.com) | TheBrain | autobiography, personal transformation |
 | [Steve Dondley](https://steve.dondley.com/notes/) | Jekyll, vimwiki | Tech, software, automation, some politics and issues |
-| [Scott Spence](https://scottspence.com/garden/) | Gatsby + MDX | Web development, MDX, GraphQL, Gatsby, styled-components  |
+| [Scott Spence](https://scottspence.com/garden/) | Toast + MDX | Web development, MDX, GraphQL, Gatsby, styled-components  |
 | [Devine Lu Linvega](https://wiki.xxiivv.com) | C | Sailing, Design, Livecoding, Plan9 |
 | [Milkii Brewster](https://wiki.thingsandstuff.org) | MediaWiki | Various life and tech topics, mostly Linux and audio FOSS |
 | [Maxime Vaillancourt](https://maximevaillancourt.com/notes) | Jekyll ([open-source template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)) | personal growth, ruby, web, linux |
@@ -126,5 +135,10 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Yenly Ma](https://yenly.wtf) | [Foamy NextJS](https://github.com/yenly/foamy-nextjs) and NextJS with MDX | Digital garden of gardens. Learning and making in public. |
 | [Rosano](https://rosano.hmm.garden) | Hyperdraft + [Garden](https://hmm.garden) | Music / Design / Technology |
 | [Chase McCoy](https://chasem.co/notes) | Gatsby + MDX | Web development, CSS, design systems |
+| [Charlie Trochlil](https://blog.charlietrochlil.com) | Maxime's [jekyll template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) | Learning, art, online spaces, baking |
+| [Hiran Venugopalan](https://notes.hiran.in/) | Obsidian + Jekyll | Design, Branding, Business, Typography, Product |
+| [Vlad Sitalo](https://vlad.roam.garden/) | [Roam Garden](https://roam.garden/) | How to define code readability objectively? Applying SRS to all the things, Building Roam Garden |
+| [Joel Chan](https://joelchan.roam.garden/) | [Roam Garden](https://roam.garden/) | Knowledge synthesis, Scientific Creativity |
 | [Blue Book](https://lyz-code.github.io/blue-book/) | MkDocs | Python, DevOps, life automation, health, art, ...|
 | [Oshyan Greene](https://garden.oshyan.com) | Discourse | Productivity, Digital Gardening, Ideas, Reviews, and Recommendations |
+| [Clinton Boys](https://mtsolitary.com) | org-roam + Hugo | Writing, data science, math, life |
