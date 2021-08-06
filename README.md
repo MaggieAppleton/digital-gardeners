@@ -91,6 +91,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 | Gardener & Link | 🛠 Build Tools  | 🌿Note Themes |
 | -------------------- | ------------------ | ----------------- |
+| [Alex Bilson](https://alexbilson.dev/notes)  | Hugo + custom [theme](https://github.com/acbilson/chaos-theme) | Business, web development, parenting and the Bible |
 | [Andy Matuschak](https://notes.andymatuschak.org/)  | The Mystery Andy System | Note-taking, education, tools for thought |
 | [Anne-Laure Le Cunff](https://www.mentalnodes.com/)    | TiddlyWiki   | Networked thinking, metacognition, evidence-based learning and self-education   |
 | [Tom Critchlow](https://tomcritchlow.com/)   | Jekyll              |  Indie consulting         |
