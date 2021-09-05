@@ -6,7 +6,7 @@ import Container from "../components/Container";
 import Layout from "../components/Layout";
 import Sidemenu from "../components/Sidemenu";
 import Card from "../components/Card";
-import { gardensFilePath, GARDENS_PATH } from "../utils/mdUtils";
+import { gardenFilePath, GARDENS_PATH } from "../utils/mdxUtils";
 import { motion } from "framer-motion";
 
 export default function Index({ posts }) {
@@ -65,7 +65,7 @@ export default function Index({ posts }) {
 }
 
 export function getStaticProps() {
-    const posts = gardensFilePath.map((filePath) => {
+    const posts = gardenFilePath.map((filePath) => {
         const source = fs.readFileSync(path.join(GARDENS_PATH, filePath));
         const { content, data } = matter(source);
 
