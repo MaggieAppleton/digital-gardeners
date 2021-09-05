@@ -1,0 +1,39 @@
+/* @import url(/fonts/stylesheet.css); */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,600;1,400&family=Source+Serif+Pro:wght@300;400&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h1 {
+        @apply text-3xl;
+        @apply leading-none;
+    }
+    h2 {
+        @apply text-2xl;
+        @apply leading-none;
+    }
+    h3 {
+        @apply text-xl;
+        @apply leading-none;
+    }
+    p {
+        @apply text-base;
+    }
+}
+
+body {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(243, 250, 218);
+    background: linear-gradient(
+        180deg,
+        rgb(245, 255, 247) 0%,
+        rgb(246, 255, 240) 70%,
+        rgb(213, 240, 218) 100%
+    );
+}
+
+/* https://tailwindcss.com/docs/adding-base-styles */
