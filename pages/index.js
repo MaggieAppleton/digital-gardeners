@@ -9,6 +9,25 @@ import Card from "../components/Card";
 import { gardenFilePath, GARDENS_PATH } from "../utils/mdxUtils";
 import { motion } from "framer-motion";
 
+const tools = [
+    {
+        title: "Roam Research",
+        description: "A personal notes system for interconnected thought",
+        url: "https://roamresearch.com/",
+    },
+    {
+        title: "Roam Garden",
+        description:
+            "Allows you to turn a Roam Research graph into a public website",
+        url: "https://roam.garden/",
+    },
+    {
+        title: "Gatsby Theme Garden",
+        description: "Gatsby theme that supports using Roam as a source",
+        url: "https://github.com/mathieudutour/gatsby-digital-garden/",
+    },
+];
+
 export default function Index({ gardens }) {
     return (
         <Container>
@@ -57,6 +76,23 @@ export default function Index({ gardens }) {
                 >
                     {gardens.slice(0, 7).map((garden) => (
                         <Card garden={garden} />
+                    ))}
+                    <li>
+                        <Link href="/directory">
+                            <a className="text-deepGreen text-lg">
+                                View all gardens
+                            </a>
+                        </Link>
+                    </li>
+                </motion.ul>
+                <motion.ul>
+                    {tools.slice(0, 7).map((tool) => (
+                        <div>
+                            <h2 className="text-xl text-deepGreen font-serif font-light max-w-5xl leading-tight">
+                                {tool.title}
+                            </h2>
+                            <p className="text-lg">{tool.description}</p>
+                        </div>
                     ))}
                 </motion.ul>
             </Layout>
