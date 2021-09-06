@@ -9,7 +9,7 @@ import Card from "../components/Card";
 import { gardenFilePath, GARDENS_PATH } from "../utils/mdxUtils";
 import { motion } from "framer-motion";
 
-export default function Index({ posts }) {
+export default function Index({ gardens }) {
     return (
         <Container>
             <Sidemenu />
@@ -55,8 +55,8 @@ export default function Index({ posts }) {
                     }}
                     className="flex flex-wrap mt-24"
                 >
-                    {posts.map((post) => (
-                        <Card post={post} />
+                    {gardens.map((garden) => (
+                        <Card garden={garden} />
                     ))}
                 </motion.ul>
             </Layout>
@@ -65,7 +65,7 @@ export default function Index({ posts }) {
 }
 
 export function getStaticProps() {
-    const posts = gardenFilePath.map((filePath) => {
+    const gardens = gardenFilePath.map((filePath) => {
         const source = fs.readFileSync(path.join(GARDENS_PATH, filePath));
         const { content, data } = matter(source);
 
@@ -76,5 +76,5 @@ export function getStaticProps() {
         };
     });
 
-    return { props: { posts } };
+    return { props: { gardens } };
 }

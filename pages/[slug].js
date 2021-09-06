@@ -2,6 +2,7 @@ import fs from "fs";
 import matter from "gray-matter";
 import { MDXRemote } from "next-mdx-remote";
 import { serialize } from "next-mdx-remote/serialize";
+import imageSize from "rehype-img-size";
 import dynamic from "next/dynamic";
 import Head from "next/head";
 import Link from "next/link";
@@ -15,7 +16,7 @@ import { gardenFilePath, GARDENS_PATH } from "../utils/mdxUtils";
 // to handle import statements. Instead, you must include components in scope
 // here.
 const components = {
-    img: (props) => <Image {...props} layout="fill" loading="lazy" />,
+    img: (props) => <Image {...props} layout="responsive" loading="lazy" />,
     // It also works with dynamically-imported components, which is especially
     // useful for conditionally loading components for certain routes.
     // See the notes in README.md for more details.
@@ -54,7 +55,7 @@ export const getStaticProps = async ({ params }) => {
         // Optionally pass remark/rehype plugins
         mdxOptions: {
             remarkPlugins: [],
-            rehypePlugins: [],
+            rehypePlugins: [[imageSize, { dir: "public" }]],
         },
         scope: data,
     });
