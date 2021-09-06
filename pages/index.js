@@ -30,13 +30,13 @@ export default function Index({ gardens }) {
                         },
                     }}
                 >
-                    <h1 className="sm:text-4xl text-coolGray-700 mb-6 font-semibold">
+                    <h1 className="sm:text-4xl  mb-6 font-semibold">
                         Garden of Digital Gardens
                     </h1>
-                    <p className="text-xl text-coolGray-600 font-serif font-light max-w-5xl leading-tight">
+                    <h2 className="text-xl text-deepGreen font-serif font-light max-w-5xl leading-tight">
                         A collection of digital gardens, tools, and resources
                         for gardeners
-                    </p>
+                    </h2>
                 </motion.div>
                 <motion.ul
                     initial="hidden"

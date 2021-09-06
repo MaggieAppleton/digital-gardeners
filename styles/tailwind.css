@@ -13,6 +13,7 @@
     h2 {
         @apply text-2xl;
         @apply leading-none;
+        @apply text-lightBlack;
     }
     h3 {
         @apply text-xl;
@@ -27,13 +28,8 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
-    background-color: rgb(243, 250, 218);
-    background: linear-gradient(
-        180deg,
-        rgb(245, 255, 247) 0%,
-        rgb(246, 255, 240) 70%,
-        rgb(213, 240, 218) 100%
-    );
+    @apply bg-offWhite;
+    @apply text-black;
 }
 
 /* https://tailwindcss.com/docs/adding-base-styles */
