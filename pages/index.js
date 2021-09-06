@@ -55,7 +55,7 @@ export default function Index({ gardens }) {
                     }}
                     className="flex flex-wrap mt-24"
                 >
-                    {gardens.map((garden) => (
+                    {gardens.slice(0, 7).map((garden) => (
                         <Card garden={garden} />
                     ))}
                 </motion.ul>
