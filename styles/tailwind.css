@@ -23,10 +23,10 @@
     }
 }
 
-body {
-    height: 100%;
+html {
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100vh;
     background-color: rgb(243, 250, 218);
     background: linear-gradient(
         180deg,

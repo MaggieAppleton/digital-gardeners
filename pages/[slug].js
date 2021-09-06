@@ -7,8 +7,8 @@ import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
 import path from "path";
-import Layout from "../../components/Layout";
-import { gardenFilePath, GARDENS_PATH } from "../../utils/mdxUtils";
+import Layout from "../components/Layout";
+import { gardenFilePath, GARDENS_PATH } from "../utils/mdxUtils";
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how
