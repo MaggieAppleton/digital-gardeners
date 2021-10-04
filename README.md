@@ -33,6 +33,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 - [Hyperdraft](https://hyperdraft.rosano.ca) - Turns plain markdown notes into a website as you write. Easy to setup and doesn't require builds or deploys.
 - [Neuron](https://github.com/srid/neuron) - Managing and publishing system for plain-text Zettelkasten-style notes.
 - [Innos Notes](https://innos.io/) – Features include parallel pages, content blocks, and knowledge graph visualisations.
+- [Quartz](https://quartz.jzhao.xyz/) - Publish your Obsidian or Roam digital garden to the web for free. Includes full-text search, graph visualization, and backlinks.
 
 #### Building a Private Garden
 
@@ -143,3 +144,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [David Ralph Lewis](https://notes.davidralphlewis.co.uk) | TiddlyWiki | Writing, poetry, wellbeing, psychology |
 | [Soren Bjornstad](https://zettelkasten.sorenbjornstad.com) | TiddlyWiki + homegrown scripts | Almost everything; emphasis on tech, reading, and how to live |
 | [Paul Batchelor](https://pbat.ch/wiki) | [WeeWiki](https://pbat.ch/wiki/weewiki) | Computer Music, Audio Programming, Literate Programming, Food |
+| [Jacky Zhao](https://garden.jzhao.xyz) | [Quartz](https://quartz.jzhao.xyz) | Books, Cognitive Sciences, Education, Technology, and whatever else I happen to be reading |
