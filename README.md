@@ -144,3 +144,4 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [David Ralph Lewis](https://notes.davidralphlewis.co.uk) | TiddlyWiki | Writing, poetry, wellbeing, psychology |
 | [Soren Bjornstad](https://zettelkasten.sorenbjornstad.com) | TiddlyWiki + homegrown scripts | Almost everything; emphasis on tech, reading, and how to live |
 | [Paul Batchelor](https://pbat.ch/wiki) | [WeeWiki](https://pbat.ch/wiki/weewiki) | Computer Music, Audio Programming, Literate Programming, Food |
+| [Alfredo Perez](https://alfredo-perez.dev/) | Obsidian + Gatsby + MDX | Web Development (Angular, GatsbyJS, NgRx, etc..), Dev Resources, and DevEx |
