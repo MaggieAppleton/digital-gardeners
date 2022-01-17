@@ -2,9 +2,11 @@
 
 This collection of apps, tools and articles is here to help you learn more about digital gardening. Ideally, it's here to help you start your own garden.
 
-#### What is "digital gardening"?
+## What is "digital gardening"?
 
 A garden is something inbetween a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. They're inherently exploratory – posts are linked through contextual associations. They aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web.
+
+See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton/digital-gardeners#theory-philosophy-and-navel-gazing) section for more on the 'what' of gardens.
 
 ![An illustration of a plant with an pencil edit icon](https://res.cloudinary.com/dg3gyk0gu/image/upload/c_scale,w_850/v1590401937/maggieappleton.com/notes/garden-history/garden-wide.png)
 
