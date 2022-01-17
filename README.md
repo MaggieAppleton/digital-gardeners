@@ -1,6 +1,10 @@
-# Digital Gardening
+# Digital Gardening Tools and Resources
 
-A collective of gardeners publicly tending their digital notes on the interwebs
+This collection of apps, tools and articles is here to help you learn more about digital gardening. Ideally, it's here to help you start your own garden.
+
+#### What is "digital gardening"?
+
+A garden is something inbetween a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. They're inherently exploratory – posts are linked through contextual associations. They aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web.
 
 ![An illustration of a plant with an pencil edit icon](https://res.cloudinary.com/dg3gyk0gu/image/upload/c_scale,w_850/v1590401937/maggieappleton.com/notes/garden-history/garden-wide.png)
 
@@ -63,7 +67,7 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 
 ## Theory, Philosophy, and Navel-Gazing
 
-- **[The Garden and the Stream: A Techno pastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)** by Mike Caulfield
+- **[The Garden and the Stream: A Techno pastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)** by Mike Caulfield – the original source of the concept of **Digital Gardening**
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) by Tom Critchlow
 - [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hooks
