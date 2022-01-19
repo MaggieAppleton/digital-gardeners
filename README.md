@@ -45,6 +45,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 
 - [Org Roam](https://www.orgroam.com/) - non-hierarchical note-taking with org-mode in emacs
 - [TheBrain](https://www.thebrain.com/) - A tool for taking interconnected notes with an interactive graph.
+- [Bangle.io](https://bangle.io) - A simple, markdown-based notetaking app that runs locally on your machine.
 
 #### Extra Gardening Tools
 
