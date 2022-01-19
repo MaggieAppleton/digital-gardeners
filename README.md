@@ -103,7 +103,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Tom Critchlow](https://tomcritchlow.com/)   | Jekyll              |  Indie consulting         |
 | [Shawn Wang](https://www.swyx.io/writing) | Sapper | Web development, writing, speaking
 | [Kevin Cummingham](https://kevincunningham.co.uk) |  Gatsby | Web development, React, AWS, GraphQL
-| [Maggie Appleton](https://maggieappleton.com/garden)   |  Gatsby + MDX   | Anthropology, metaphors, visual explanations, and web development
+| [Maggie Appleton](https://maggieappleton.com/garden)   |  Next.js + MDX   | Anthropology, metaphors, visual explanations, and web development
 | [Chris Biscardi](https://www.christopherbiscardi.com/garden)   |  Sector / Toast?   | Web development, MDX, GraphQL, Gatsby
 | [Wess Daniels](https://nurselog.online)   |  Tiddlywiki (Pre-Release 5.1.23)   | Culture and systems change, liberation theology, tech and pedagogy
 | [Aengus McMillin](https://aengusmcmillin.com/brain)  |  Gatsby |  Programming, Stoicism  |
