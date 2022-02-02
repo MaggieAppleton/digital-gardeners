@@ -40,6 +40,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 - [Hyperdraft](https://hyperdraft.rosano.ca) - Turns plain markdown notes into a website as you write. Easy to setup and doesn't require builds or deploys.
 - [Neuron](https://github.com/srid/neuron) - Managing and publishing system for plain-text Zettelkasten-style notes.
 - [Innos Notes](https://innos.io/) – Features include parallel pages, content blocks, and knowledge graph visualisations.
+- [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
 
 #### Building a Private Garden
 
