@@ -11,7 +11,7 @@ module.exports = {
         extend: {
             fontFamily: {
                 sans: ["Poppins", ...defaultTheme.fontFamily.sans],
-                serif: ["Source Serif Pro", ...defaultTheme.fontFamily.mono],
+                serif: ["Source Serif Pro", ...defaultTheme.fontFamily.serif],
             },
             fontSize: {
                 // Set in Perfect Fourth typescale (1.33)
@@ -25,10 +25,11 @@ module.exports = {
             },
             colors: {
                 ...colors,
+                brightGreen: "#189191",
                 deepGreen: "#136464",
-                offWhite: "#F7F7F5",
-                black: "#2B2B2B",
-                lightBlack: "#3F433E",
+                offWhite: "#F5F4EF",
+                black: "#373435",
+                lightBlack: "#514B4C",
                 orangeRed: "#FF6148",
             },
         },

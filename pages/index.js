@@ -4,7 +4,6 @@ import Link from "next/link";
 import path from "path";
 import Container from "../components/Container";
 import Layout from "../components/Layout";
-import Sidemenu from "../components/Sidemenu";
 import Card from "../components/Card";
 import { gardenFilePath, GARDENS_PATH } from "../utils/mdxUtils";
 import { motion } from "framer-motion";
@@ -31,7 +30,6 @@ const tools = [
 export default function Index({ gardens }) {
     return (
         <Container>
-            <Sidemenu />
             <Layout>
                 <motion.div
                     initial="hidden"
@@ -49,7 +47,7 @@ export default function Index({ gardens }) {
                         },
                     }}
                 >
-                    <h1 className="sm:text-4xl  mb-6 font-semibold">
+                    <h1 className="sm:text-4xl text-black mb-6 font-semibold">
                         Garden of Digital Gardens
                     </h1>
                     <h2 className="text-xl text-deepGreen font-serif font-light max-w-5xl leading-tight">
