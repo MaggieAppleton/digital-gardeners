@@ -152,6 +152,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Joel Chan](https://joelchan.roam.garden/) | [Roam Garden](https://roam.garden/) | Knowledge synthesis, Scientific Creativity |
 | [Blue Book](https://lyz-code.github.io/blue-book/) | MkDocs | Python, DevOps, life automation, health, art, ...|
 | [Oshyan Greene](https://garden.oshyan.com) | Discourse | Productivity, Digital Gardening, Ideas, Reviews, and Recommendations |
+| [Alex Digital Garden](https://www.alexanderweichart.de/) | Obsidian Publish | Student notes, Human-computer interaction, productivity...|
 | [Clinton Boys](https://mtsolitary.com) | org-roam + Hugo | Writing, data science, math, life |
 | [David Ralph Lewis](https://notes.davidralphlewis.co.uk) | TiddlyWiki | Writing, poetry, wellbeing, psychology |
 | [Soren Bjornstad](https://zettelkasten.sorenbjornstad.com) | TiddlyWiki + homegrown scripts | Almost everything; emphasis on tech, reading, and how to live |
