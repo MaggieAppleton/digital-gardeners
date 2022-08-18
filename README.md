@@ -60,7 +60,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 ## How-To's and Tutorials
 
 - [How to build a digital garden with TiddlyWiki](https://nesslabs.com/digital-garden-tiddlywiki) by Anne-Laure Le Cunff
-- [Install org-roam: an introductory technical guide with Doom Emacs](https://www.ianjones.us/2020-05-05-doom-emacs/) by Ian Jones
+- [Own Your Second Brain: Set Up org-roam on Your Own Machine](https://ianjones.us/own-your-second-brain) by Ian Jones
 - [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
 - [Webmentions - Joining the IndieWeb with Svelte](https://www.swyx.io/writing/clientside-webmentions) by Shawn Wang
 - [How to plant a Garden](https://www.loom.com/share/05ac911308554668a6b35fd2b321d3d9) a video walkthrough for converting your RoamResearch DB into a public garden by [Vlad Sitalo](https://twitter.com/VladyslavSitalo)
