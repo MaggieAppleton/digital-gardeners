@@ -45,9 +45,10 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 
 #### Building a Private Garden
 
+- [Bangle.io](https://bangle.io) - A simple, markdown-based notetaking app that runs locally on your machine.
 - [Org Roam](https://www.orgroam.com/) - non-hierarchical note-taking with org-mode in emacs
 - [TheBrain](https://www.thebrain.com/) - A tool for taking interconnected notes with an interactive graph.
-- [Bangle.io](https://bangle.io) - A simple, markdown-based notetaking app that runs locally on your machine.
+- [The Archive](https://zettelkasten.de/the-archive) - A fast plain text Markdown note-taking app with Zettelkasten features like linking and tagging.
 
 #### Extra Gardening Tools
 
