@@ -88,7 +88,6 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 
 ## Common Ground: Zettelkasten, Knowledge Graphs, Wikis, and Related Concepts
 
-- [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
 - [Zettelkasten: knowledge and info management](https://zettelkasten.de/)
 - [The Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1) by Abram Demski
 - [A web of wikis](https://doubleloop.net/2020/05/16/a-web-of-wikis/) by Neil Mather
