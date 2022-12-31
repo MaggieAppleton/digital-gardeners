@@ -105,7 +105,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | ⭐️ [Andy Matuschak](https://notes.andymatuschak.org/)  | The Mystery Andy System | Note-taking, education, tools for thought |
 | ⭐️ [Gwern](https://www.gwern.net/) | [JS, CSS, Hakyll, Haskell](https://www.gwern.net/About#tools) | Quantified self, spaced repetition, bitcoin |
 | ⭐️ [Azlen Elza](https://notes.azlen.me/g3tibyfv/)  | Notion + Python | Design, Conversational interfaces, Tools for thought
-| ⭐️ [Buster Benson](https://busterbenson.com/piles/) |  | Behaviour change, dialogue, systems thinking | 
+| ⭐️ [Buster Benson](https://busterbenson.com/piles/) |  | Behaviour change, dialogue, systems thinking |
 | ⭐️ [Tom Critchlow](https://tomcritchlow.com/)   | Jekyll              |  Indie consulting         |
 | ⭐️ [Chris Aldrich](https://tw.boffosocko.com) |  TiddlyWiki + TiddlyBlink + TiddlyMap | Art of Memory, IndieWeb, humanities, commonplace books, thought spaces
 | ⭐️ [Gordon Brander](http://gordonbrander.com/pattern/) |  [Lettersmith](https://github.com/gordonbrander/lettersmith_py) | Design patterns, storytelling, systems
@@ -157,3 +157,10 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Soren Bjornstad](https://zettelkasten.sorenbjornstad.com) | TiddlyWiki + homegrown scripts | Almost everything; emphasis on tech, reading, and how to live |
 | [Paul Batchelor](https://pbat.ch/wiki) | [WeeWiki](https://pbat.ch/wiki/weewiki) | Computer Music, Audio Programming, Literate Programming, Food |
 | [Memento](https://m0wer.github.io/memento/) | [MkDocs](https://www.mkdocs.org/), [MkDocs Newsletter](https://lyz-code.github.io/mkdocs-newsletter/) | Python, GNU/Linux, DevOps, Flutter, traveling, cooking, ...|
+
+Other digital garden compilations:
+
+* [Nikita's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
+* [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
+* [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
+* [Best-of Digital Gardens](https://github.com/lyz-code/best-of-digital-gardens)
