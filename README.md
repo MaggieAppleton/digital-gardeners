@@ -33,6 +33,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 - [Simply Jekyll](https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll) - A Jekyll theme with bidirectional links, sidenotes, and transclusion
 - [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - A simple, clean jekyll template with bi-directional links
 - [Jekyll-Bonsai](https://github.com/manunamz/jekyll-bonsai) - A modern jekyll theme for semantically inclined digital gardeners.
+- [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - Clean Jekyll theme supoorting bidirectional links. 
 - [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A minimal template with backlinks, built in [Eleventy](https://11ty.dev)
 - [Foam](https://foambubble.github.io/foam/) - Roam-like personal note management and publishing system built inside VSCode
 - [Foamy NextJS](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
@@ -147,7 +148,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Rosano](https://rosano.hmm.garden) | Hyperdraft + [Garden](https://hmm.garden) | Music / Design / Technology |
 | [Chase McCoy](https://chasem.co/notes) | Gatsby + MDX | Web development, CSS, design systems |
 | [Charlie Trochlil](https://blog.charlietrochlil.com) | Maxime's [jekyll template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) | Learning, art, online spaces, baking |
-| [Hiran Venugopalan](https://notes.hiran.in/) | Obsidian + Jekyll | Design, Branding, Business, Typography, Product |
+| [Hiran Venugopalan](https://hiran.in/notes) | Obsidian + Jekyll | Design, Branding, Business, Typography, Product |
 | [Vlad Sitalo](https://vlad.roam.garden/) | [Roam Garden](https://roam.garden/) | How to define code readability objectively? Applying SRS to all the things, Building Roam Garden |
 | [Joel Chan](https://joelchan.roam.garden/) | [Roam Garden](https://roam.garden/) | Knowledge synthesis, Scientific Creativity |
 | [Blue Book](https://lyz-code.github.io/blue-book/) | MkDocs | Python, DevOps, life automation, health, art, ...|
