@@ -67,7 +67,6 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 - [Webmentions - Joining the IndieWeb with Svelte](https://www.swyx.io/writing/clientside-webmentions) by Shawn Wang
 - [How to plant a Garden](https://www.loom.com/share/05ac911308554668a6b35fd2b321d3d9) a video walkthrough for converting your RoamResearch DB into a public garden by [Vlad Sitalo](https://twitter.com/VladyslavSitalo)
 - [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening) by Maggie Appleton
-- [5 No Code Digital Gardening Tools](https://ianjones.us/notes/digital-garden/five-no-code-digital-gardens) by Ian Jones
 
 <br />
 
