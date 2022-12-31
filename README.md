@@ -112,6 +112,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | ⭐️ [Bill Seitz](http://webseitz.fluxent.com/wiki/) |  Flask/Python with [WikiFlux](http://webseitz.fluxent.com/wiki/WikiFlux) | Product management, startups, wiki theory, engineering |
 | ⭐️ [Alex Komoroske](https://thecompendium.cards/c/half-baked/) | [Cards Web](https://github.com/jkomoros/card-web) – a custom OS platform | Complexity theory, design, systems thinking |
 | ⭐️ [Nikita Voloboev](https://wiki.nikitavoloboev.xyz) | GitBook | Tool obsessed. Code, web dev, art. |
+| [johackim](https://github.com/johackim/johackim.com) | Next.js + Obsidian API | Privacy, cybersecurity, selfhosting and web development
 | [Anne-Laure Le Cunff](https://www.mentalnodes.com/)    | TiddlyWiki   | Networked thinking, metacognition, evidence-based learning and self-education   |
 | [Shawn Wang](https://www.swyx.io/writing) | Sapper | Web development, writing, speaking
 | [Kevin Cummingham](https://kevincunningham.co.uk) |  Gatsby | Web development, React, AWS, GraphQL
