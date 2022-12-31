@@ -121,7 +121,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Wess Daniels](https://nurselog.online)   |  Tiddlywiki (Pre-Release 5.1.23)   | Culture and systems change, liberation theology, tech and pedagogy
 | [Aengus McMillin](https://aengusmcmillin.com/brain)  |  Gatsby |  Programming, Stoicism  |
 | [Joel Hooks](https://joelhooks.com/)  |  Gatsby + MDX  | Bootstrapping / indie-hacking, community building, web development
-| [Ian Jones](https://ianjones.us/notes)  |  Gatsby  | Web development, Gatsby, Emacs
+| [Ian Jones](https://garden.ianjones.us/)  |  Gatsby  | Web development, Gatsby, Emacs
 | [Wayan Jimmy](https://notebook.wayanjimmy.xyz) |  Gatsby ([Hasura Gitbook Starter](https://github.com/hasura/gatsby-gitbook-starter)) | Coding, Learning notes
 | [Markus](https://re1.dev/wiki/) |  Eleventy | Design, linux, privacy
 | [Max Stoiber](https://notes.mxstbr.com/About_these_notes) |  The Mystery Andy System | React, web development
