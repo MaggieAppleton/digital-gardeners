@@ -160,7 +160,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 
 ## Other digital garden compilations:
 
-* [Nikita's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
+* [Nikita's compilation](https://wiki.nikiv.dev/other/wiki-workflow#similar-wikis-i-liked)
 * [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
 * [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
 * [Best-of Digital Gardens](https://github.com/lyz-code/best-of-digital-gardens)
