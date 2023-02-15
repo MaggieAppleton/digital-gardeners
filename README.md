@@ -42,6 +42,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 - [Neuron](https://github.com/srid/neuron) - Managing and publishing system for plain-text Zettelkasten-style notes.
 - [Innos Notes](https://innos.io/) – Features include parallel pages, content blocks, and knowledge graph visualisations.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
+- [Zettels](https://github.com/crisrojas/zettels) - A Hugo theme for building digital gardens with an UI and hashtag conventions inspired by the Bear app
 
 #### Building a Private Garden
 
@@ -130,7 +131,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Salman Ansari](https://notes.salman.io/) | Gatsby | Start-ups, engineering |
 | [Fabien Benetou](https://fabien.benetou.fr/) | PmWiki (with plenty of extensions PHP/JS/NodeJS/WebXR/CSS/Processing/etc) | Everytyhing but particularly programming, tools, tools for thoughts |
 | [Waylon Walker](https://waylonwalker.com/notes) | Gatsby | python, data-engineering, coding, learning notes |
-| [Cristian Rojas](https://notes.crisrojas.com) | [Hugo Zettels theme](https://github.com/crisrojas/zettels)   | 🇪🇸 Drawing, coding, biology, introspection   |
+| [Cristian F. Patiño Rojas](https://notas.cristian.lat) | [BearKit](https://notas.cristian.lat/bearkit) - Custom system  | 🇪🇸 Note-taking, opinions, dev, various  |
 | [Chinarut Ruangchotvit](http://autobiography.chinarut.com) | TheBrain | autobiography, personal transformation |
 | [Steve Dondley](https://steve.dondley.com/notes/) | Jekyll, vimwiki | Tech, software, automation, some politics and issues |
 | [Scott Spence](https://scottspence.com/garden/) | Toast + MDX | Web development, MDX, GraphQL, Gatsby, styled-components  |
