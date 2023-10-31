@@ -26,6 +26,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
   - [Stroll](https://giffmex.org/stroll/stroll.html) a TiddlyWiki plugin with bi-directional links and other Roam-like features
   - [TiddlyMap](http://tiddlymap.org/) - a mind-map plugin that shows visualizations for TiddlyWiki.
 - [Gitbook](https://www.gitbook.com/)
+- [MkDocs](https://www.mkdocs.org/)
 - [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
 - [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Roam-like bidirectional links in Gatsby.js
 - [Gatsby Andy Theme](https://github.com/aravindballa/gatsby-theme-andy)
