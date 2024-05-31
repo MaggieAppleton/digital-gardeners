@@ -18,15 +18,15 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 
 - [Roam Research](https://roamresearch.com/) - A personal notes system for interconnected thought
   - See the following resources for converting your private garden in Roam to a public garden:
-    - [Roam Garden](https://roam.garden/) a service that does all the setup for you based on JSON export
+    - [Roam Garden](https://roam.garden/) A service that does all the setup for you based on JSON export
     - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) Gatsby theme that supports using Roam as a source
     - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) Jekyll based converter for your Roam Data
-- [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files. Also allows you to publish selections of your graph to the open web.
+- [Obsidian](https://obsidian.md/) - A Roam-like knowledge base that works on top of a local folder of plain text Markdown files. Also allows you to publish selections of your graph to the open web.
 - [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
-  - [Stroll](https://giffmex.org/stroll/stroll.html) a TiddlyWiki plugin with bi-directional links and other Roam-like features
-  - [TiddlyMap](http://tiddlymap.org/) - a mind-map plugin that shows visualizations for TiddlyWiki.
+  - [Stroll](https://giffmex.org/stroll/stroll.html) A TiddlyWiki plugin with bi-directional links and other Roam-like features
+  - [TiddlyMap](http://tiddlymap.org/) - A mind-map plugin that shows visualizations for TiddlyWiki.
 - [Gitbook](https://www.gitbook.com/)
-- [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
+- [React-Notion](https://github.com/splitbee/react-notion/) - Allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
 - [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Roam-like bidirectional links in Gatsby.js
 - [Gatsby Andy Theme](https://github.com/aravindballa/gatsby-theme-andy)
 - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
@@ -43,11 +43,12 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 - [Innos Notes](https://innos.io/) – Features include parallel pages, content blocks, and knowledge graph visualisations.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
 - [Quartz](https://quartz.jzhao.xyz/) - Publish your Obsidian or Roam digital garden to the web for free. Includes full-text search, graph visualization, and backlinks.
+- [Logseq](https://logseq.com) - An Obsedian-like open-source knowledge base that works on top of a local/remote folder of plain text Markdown files. Also allows you to publish your graph to the open web.
 
 #### Building a Private Garden
 
 - [Bangle.io](https://bangle.io) - A simple, markdown-based notetaking app that runs locally on your machine.
-- [Org Roam](https://www.orgroam.com/) - non-hierarchical note-taking with org-mode in emacs
+- [Org Roam](https://www.orgroam.com/) - Non-hierarchical note-taking with org-mode in emacs
 - [TheBrain](https://www.thebrain.com/) - A tool for taking interconnected notes with an interactive graph.
 - [The Archive](https://zettelkasten.de/the-archive) - A fast plain text Markdown note-taking app with Zettelkasten features like linking and tagging.
 
