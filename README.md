@@ -32,7 +32,6 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
 - [Simply Jekyll](https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll) - A Jekyll theme with bidirectional links, sidenotes, and transclusion
 - [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - A simple, clean jekyll template with bi-directional links
-- [Jekyll-Bonsai](https://github.com/manunamz/jekyll-bonsai) - A modern jekyll theme for semantically inclined digital gardeners.
 - [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - Clean Jekyll theme supporting bidirectional links. 
 - [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A minimal template with backlinks, built in [Eleventy](https://11ty.dev)
 - [Foam](https://foambubble.github.io/foam/) - Roam-like personal note management and publishing system built inside VSCode
@@ -57,6 +56,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
   - [Webmention.io](https://webmention.io/) - A service to add Webmentions to your Garden
 - [Hypothesis](https://web.hypothes.is/) - A layer of social meta commentary
 - [mkdocs-newsletter](https://lyz-code.github.io/mkdocs-newsletter/) - An add-on to the [MKdocs](https://www.mkdocs.org/) platform that generates a newsletter logging which pages have changed
+- [WikiBonsai](https://github.com/wikibonsai/wikibonsai) - A one-stop shop for your digital gardening needs from note-taking extensions, to CLI tools, to SSG templates, to LLM-assisted concept analysis services.
 
 <br />
 
