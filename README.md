@@ -27,6 +27,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
   - [TiddlyMap](http://tiddlymap.org/) - a mind-map plugin that shows visualizations for TiddlyWiki.
 - [Gitbook](https://www.gitbook.com/)
 - [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
+- [Flowershow - put your digital garden on show](https://flowershow.app/) - markdown-based digital garden publishing in the cloud with full support for wiki-links and digital garden features.
 - [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Roam-like bidirectional links in Gatsby.js
 - [Gatsby Andy Theme](https://github.com/aravindballa/gatsby-theme-andy)
 - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
@@ -159,6 +160,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Paul Batchelor](https://pbat.ch/wiki) | [WeeWiki](https://pbat.ch/wiki/weewiki) | Computer Music, Audio Programming, Literate Programming, Food |
 | [Memento](https://m0wer.github.io/memento/) | [MkDocs](https://www.mkdocs.org/), [MkDocs Newsletter](https://lyz-code.github.io/mkdocs-newsletter/) | Python, GNU/Linux, DevOps, Flutter, traveling, cooking, ...|
 | [Jacky Zhao](https://garden.jzhao.xyz) | [Quartz](https://quartz.jzhao.xyz) | Books, Cognitive Sciences, Education, Technology, and whatever else I happen to be reading |
+| [Rufus Pollock](https://rufuspollock.com/) | [Flowershow](https://flowershow.app) and [Obsidian](https://obsidian.md) | Technology, cultural evolution and systems change |
 
 ## Other digital garden compilations:
 
