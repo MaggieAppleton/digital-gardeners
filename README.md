@@ -159,6 +159,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Paul Batchelor](https://pbat.ch/wiki) | [WeeWiki](https://pbat.ch/wiki/weewiki) | Computer Music, Audio Programming, Literate Programming, Food |
 | [Memento](https://m0wer.github.io/memento/) | [MkDocs](https://www.mkdocs.org/), [MkDocs Newsletter](https://lyz-code.github.io/mkdocs-newsletter/) | Python, GNU/Linux, DevOps, Flutter, traveling, cooking, ...|
 | [Jacky Zhao](https://garden.jzhao.xyz) | [Quartz](https://quartz.jzhao.xyz) | Books, Cognitive Sciences, Education, Technology, and whatever else I happen to be reading |
+| [Alma de Estrella Nocturna](https://gvpv12.github.io/) | Astro + Github pages | Digital garden in spanish. Notes, analysis, reflections and learnings about technology, animation, design, web development and UI-UX design, video game development, productivity, philosophy, culture, and more. |
 
 ## Other digital garden compilations:
 
