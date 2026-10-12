@@ -43,6 +43,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 - [Innos Notes](https://innos.io/) – Features include parallel pages, content blocks, and knowledge graph visualisations.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
 - [Quartz](https://quartz.jzhao.xyz/) - Publish your Obsidian or Roam digital garden to the web for free. Includes full-text search, graph visualization, and backlinks.
+- [Caldera](https://caldera.social/gardens) - Open-source Obsidian plugin: notes in a Garden folder become public pages with seedling/budding/evergreen stages and a per-note license, linked across gardens with `[[@handle/Note]]` (backlinks show on both sides). Self-hostable; signed authorship.
 
 #### Building a Private Garden
 
