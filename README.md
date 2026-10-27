@@ -159,6 +159,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Paul Batchelor](https://pbat.ch/wiki) | [WeeWiki](https://pbat.ch/wiki/weewiki) | Computer Music, Audio Programming, Literate Programming, Food |
 | [Memento](https://m0wer.github.io/memento/) | [MkDocs](https://www.mkdocs.org/), [MkDocs Newsletter](https://lyz-code.github.io/mkdocs-newsletter/) | Python, GNU/Linux, DevOps, Flutter, traveling, cooking, ...|
 | [Jacky Zhao](https://garden.jzhao.xyz) | [Quartz](https://quartz.jzhao.xyz) | Books, Cognitive Sciences, Education, Technology, and whatever else I happen to be reading |
+| [Korey Wang Tianru](https://korey2028.tech) | AI PM portfolio, Fitness OS workbench (serving 40+ gym members), and open-source agent skills | [korey2028-prog/resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) |
 
 ## Other digital garden compilations:
 
