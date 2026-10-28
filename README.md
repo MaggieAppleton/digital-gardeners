@@ -43,6 +43,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 - [Innos Notes](https://innos.io/) – Features include parallel pages, content blocks, and knowledge graph visualisations.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
 - [Quartz](https://quartz.jzhao.xyz/) - Publish your Obsidian or Roam digital garden to the web for free. Includes full-text search, graph visualization, and backlinks.
+- [Obsidian Garden](https://github.com/sina-salahshour/obsidian-garden) - Open-source engine that publishes an Obsidian vault as a server-rendered garden (TanStack Start). Wikilinks and backlinks carry over, with a filterable note graph, full-text search and ordered "courses" grown from folders. Notes can stay private or never leave the vault.
 
 #### Building a Private Garden
 
@@ -159,6 +160,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Paul Batchelor](https://pbat.ch/wiki) | [WeeWiki](https://pbat.ch/wiki/weewiki) | Computer Music, Audio Programming, Literate Programming, Food |
 | [Memento](https://m0wer.github.io/memento/) | [MkDocs](https://www.mkdocs.org/), [MkDocs Newsletter](https://lyz-code.github.io/mkdocs-newsletter/) | Python, GNU/Linux, DevOps, Flutter, traveling, cooking, ...|
 | [Jacky Zhao](https://garden.jzhao.xyz) | [Quartz](https://quartz.jzhao.xyz) | Books, Cognitive Sciences, Education, Technology, and whatever else I happen to be reading |
+| [Sina Salahshour](https://garden.drhexe.ir) | [Obsidian Garden](https://github.com/sina-salahshour/obsidian-garden) (TanStack Start) | React internals, Next.js, web development |
 
 ## Other digital garden compilations:
 
